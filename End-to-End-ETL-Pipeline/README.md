@@ -54,4 +54,15 @@ Trigger the youtube_etl_dag and run the process
 
 ![Airflow](Airflow_ETL_Dag.png)
 
+## Step 6: Open AWS s3 bucket
+
+After run the DAG successfully the YouTube Data available in S3 bucket.
+
+![Amazon_S3_Bucket](Amazon_S3_Bucket.png)
+
+## Step 7: connect S3 to Snowflake database
+
+Run the the query [Snowflake Query](Snowflake_Query.html) 
+
+
 
