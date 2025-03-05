@@ -48,3 +48,8 @@ Run the compose up to run the docker.
 ![Docker Image](Docker_Image.png)
 
 
+## step 5: Open the Airflow DAG
+
+![Airflow](Airflow_ETL_Dag.png)
+
+
