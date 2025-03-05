@@ -10,7 +10,7 @@ Dockerized environment.
 
 ![Project Architecture](Project_Architecture.png)
 
-## step 1: Obtain a Youtube Data API Key**
+## step 1: Obtain a Youtube Data API Key
 
 - Visit the Google Developers Console.
 - Create a new project.
@@ -19,3 +19,14 @@ Dockerized environment.
 
   
 ![Youtube API](Google_API.png)
+
+
+## step 2: Acquire AWS Access Key ID and Secret Access Key
+
+- Log in to your [AWS Management Console](https://aws.amazon.com/console/).
+- Navigate to the IAM (Identity and Access Management) section and create a new user.
+- Attach the necessary policies for S3 access and create Access Keys.
+- Save the generated Access Key ID and Secret Access Key securely for use in the project.
+
+
+![Youtube API](AWS_Access_Key.png)
