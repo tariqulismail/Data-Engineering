@@ -50,6 +50,8 @@ Run the compose up to run the docker.
 
 ## step 5: Open the Airflow DAG
 
+Trigger the youtube_etl_dag and run the process
+
 ![Airflow](Airflow_ETL_Dag.png)
 
 
