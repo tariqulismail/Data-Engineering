@@ -64,6 +64,6 @@ After run the DAG successfully the YouTube Data available in S3 bucket.
 
 Run the the query [Snowflake Query](Snowflake_Query.html) 
 
-![Snowflake](Airflow_ETL_Dag.png)
+![Snowflake](snowflake_query.png)
 
 
