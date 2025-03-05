@@ -10,3 +10,12 @@ Dockerized environment.
 
 ![Project Architecture](Project_Architecture.png)
 
+## step 1: Obtain a Youtube Data API Key**
+
+- Visit the Google Developers Console.
+- Create a new project.
+- Search for the “YouTube Data API” and enable it.
+- Generate new credentials and copy the API key for later use in the project.
+
+  
+![Youtube API](Google_API.png)
