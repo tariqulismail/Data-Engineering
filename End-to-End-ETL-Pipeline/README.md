@@ -63,7 +63,16 @@ After run the DAG successfully the YouTube Data available in S3 bucket.
 ## Step 7: connect S3 to Snowflake database
 
 Run the the query [Snowflake Query](Snowflake_Query.html) 
+Anlaze the data for final visulasation.
 
 ![Snowflake](snowflake_query.png)
+
+
+## Step 8: Build the dashboard in Google looker studio
+
+Connect the snowflake database to Google looker studio and create the dashboard.
+
+![Dashboard](Youtube_Trend_Analysis_Dashboard.png)
+
 
 
