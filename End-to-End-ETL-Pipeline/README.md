@@ -37,3 +37,14 @@ Dockerized environment.
 - All code share in below project
 
  [Airflow-Project](Airflow-Project)
+
+The process starts with extracting trending video data from YouTube using the YouTube
+API. This includes information like video titles, views, likes, comments, and categories.
+
+## step 4: Run the docker
+
+Run the compose up to run the docker.
+
+![Docker Image](Docker_Image.png)
+
+
