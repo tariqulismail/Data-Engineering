@@ -61,6 +61,9 @@ aws lambda create-function --function-name ProcessKinesisData \
   --zip-file fileb://function.zip --timeout 30
 ```
 
+![Amazon_Lambda_Kinesis](kinesis-data-streams-to-dynamodb.png)
+
+
 ### **5. Connect Kinesis to Lambda**
 ```sh
 aws lambda create-event-source-mapping --event-source-arn <Kinesis ARN> \
@@ -75,6 +78,9 @@ aws dynamodb create-table --table-name SensorData \
   --key-schema AttributeName=id,KeyType=HASH \
   --provisioned-throughput ReadCapacityUnits=5,WriteCapacityUnits=5
 ```
+
+![DynamoDB](DynamoDB.png)
+
 
 ### **7. Run Python Producer**
 A sample producer script to send IoT data to Kinesis:
