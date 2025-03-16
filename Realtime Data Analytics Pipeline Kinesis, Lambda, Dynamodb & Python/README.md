@@ -49,6 +49,9 @@ Set up your `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, and `AWS_REGION`.
 aws kinesis create-stream --stream-name kinesis-stream-1 --shard-count 1
 ```
 
+![Amazon_Kinesis](Amazon_Kinesis.png)
+
+
 ### **4. Deploy Lambda Function**
 ```sh
 cd lambda/
