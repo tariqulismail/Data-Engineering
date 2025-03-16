@@ -3,6 +3,11 @@
 ## Overview
 This project demonstrates how to develop a real-time streaming data pipeline using **AWS services** and **Python**. The pipeline efficiently processes IoT, energy, and AI workflow data using event-driven architectures.
 
+
+## Architecture
+
+![Project Architecture](Project_Architecture.png)
+
 ### **Technologies Used**
 - **AWS Kinesis Data Streams** - For real-time data ingestion.
 - **AWS Lambda** - For serverless data transformation.
