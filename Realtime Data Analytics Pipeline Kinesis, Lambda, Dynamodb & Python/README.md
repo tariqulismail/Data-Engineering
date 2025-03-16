@@ -3,6 +3,18 @@
 ## Overview
 This project demonstrates how to develop a real-time streaming data pipeline using **AWS services** and **Python**. The pipeline efficiently processes IoT, energy, and AI workflow data using event-driven architectures.
 
+
+## **Architecture**
+
+![Project Architecture](Project_Architecture.png)
+
+1. **Data Ingestion:** IoT and AI workflow data are ingested into **AWS Kinesis Data Streams**.
+2. **Real-Time Processing:** AWS **Lambda** functions process and transform the data.
+3. **Data Storage:** Processed data is stored in **DynamoDB** for quick lookups and in **S3/Redshift** for analytics.
+4. **Analytics & Visualization:** AWS services like **Redshift** and **Athena** enable querying and reporting.
+
+
+
 ### **Technologies Used**
 - **AWS Kinesis Data Streams** - For real-time data ingestion.
 - **AWS Lambda** - For serverless data transformation.
@@ -17,14 +29,6 @@ This project demonstrates how to develop a real-time streaming data pipeline usi
 - 🔄 Implement **event-driven architectures** using AWS Kinesis.
 - 🔧 Develop **ETL pipelines** to ingest, transform, and structure large energy datasets.
 
-## **Architecture**
-1. **Data Ingestion:** IoT and AI workflow data are ingested into **AWS Kinesis Data Streams**.
-2. **Real-Time Processing:** AWS **Lambda** functions process and transform the data.
-3. **Data Storage:** Processed data is stored in **DynamoDB** for quick lookups and in **S3/Redshift** for analytics.
-4. **Analytics & Visualization:** AWS services like **Redshift** and **Athena** enable querying and reporting.
-
-
-![Project Architecture](Project_Architecture.png)
 
 ## **Setup Instructions**
 ### **1. Clone the Repository**
