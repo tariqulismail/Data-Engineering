@@ -11,10 +11,6 @@ This project delivers a fully automated, scalable, and high-performance ETL pipe
 What sets this project apart is its real-time analytics capability, allowing businesses to make data-driven decisions faster. By integrating Google Looker Studio, we provide interactive dashboards that transform complex datasets into actionable insights. Whether for finance, e-commerce, or SaaS applications, this solution is designed for efficiency, scalability, and automation, eliminating manual data handling and optimizing cloud costs.
 
 
-
-
-[![Watch the video](Images/Conclusion.png)](https://youtu.be/d9QKQ9IGC3c)
-
 ## Architecture
 
 ![Project Architecture](Images/Project_Architecture.png)
@@ -85,3 +81,9 @@ Connect the snowflake database to Google looker studio and create the dashboard.
 
 
 With 15+ years of experience in data engineering, I specialize in building end-to-end pipelines that are secure, cost-effective, and enterprise-ready. This project is not just about data movement—it’s about empowering businesses with real-time intelligence and a future-proof data architecture.
+
+
+### Watch the full video
+
+[![Watch the video](Images/Conclusion.png)](https://youtu.be/d9QKQ9IGC3c)
+
