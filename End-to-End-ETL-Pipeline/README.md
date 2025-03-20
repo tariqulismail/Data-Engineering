@@ -13,7 +13,7 @@ What sets this project apart is its real-time analytics capability, allowing bus
 
 ## Architecture
 
-![Project Architecture](Project_Architecture.png)
+![Project Architecture](Images/Project_Architecture.png)
 
 ## step 1: Obtain a Youtube Data API Key
 
@@ -23,7 +23,7 @@ What sets this project apart is its real-time analytics capability, allowing bus
 - Generate new credentials and copy the API key for later use in the project.
 
   
-![Youtube API](Google_API.png)
+![Youtube API](Images/Google_API.png)
 
 
 ## step 2: Acquire AWS Access Key ID and Secret Access Key
@@ -34,14 +34,14 @@ What sets this project apart is its real-time analytics capability, allowing bus
 - Save the generated Access Key ID and Secret Access Key securely for use in the project.
 
 
-![Youtube API](AWS_Access_Key.png)
+![Youtube API](Images/AWS_Access_Key.png)
 
 ## step 3: Using VS code Create a Docker Image
 
 - Create a new folder for your project and name it as “Airflow-Project”
 - All code share in below project
 
- [Airflow-Project](Airflow-Project)
+ [Airflow-Project](Images/Airflow-Project)
 
 The process starts with extracting trending video data from YouTube using the YouTube
 API. This includes information like video titles, views, likes, comments, and categories.
@@ -50,34 +50,34 @@ API. This includes information like video titles, views, likes, comments, and ca
 
 Run the compose up to run the docker.
 
-![Docker Image](Docker_Image.png)
+![Docker Image](Images/Docker_Image.png)
 
 
 ## step 5: Open the Airflow DAG
 
 Trigger the youtube_etl_dag and run the process
 
-![Airflow](Airflow_ETL_Dag.png)
+![Airflow](Images/Airflow_ETL_Dag.png)
 
 ## Step 6: Open AWS s3 bucket
 
 After run the DAG successfully the YouTube Data available in S3 bucket.
 
-![Amazon_S3_Bucket](Amazon_S3_Bucket.png)
+![Amazon_S3_Bucket](Images/Amazon_S3_Bucket.png)
 
 ## Step 7: connect S3 to Snowflake database
 
 Run the the query [Snowflake Query](Snowflake_Query.html) 
 Anlaze the data for final visulasation.
 
-![Snowflake](snowflake_query.png)
+![Snowflake](Images/snowflake_query.png)
 
 
 ## Step 8: Build the dashboard in Google looker studio
 
 Connect the snowflake database to Google looker studio and create the dashboard.
 
-![Dashboard](Youtube_Trend_Analysis_Dashboard.png)
+![Dashboard](Images/Youtube_Trend_Analysis_Dashboard.png)
 
 
 With 15+ years of experience in data engineering, I specialize in building end-to-end pipelines that are secure, cost-effective, and enterprise-ready. This project is not just about data movement—it’s about empowering businesses with real-time intelligence and a future-proof data architecture.
