@@ -11,7 +11,9 @@ This project delivers a fully automated, scalable, and high-performance ETL pipe
 What sets this project apart is its real-time analytics capability, allowing businesses to make data-driven decisions faster. By integrating Google Looker Studio, we provide interactive dashboards that transform complex datasets into actionable insights. Whether for finance, e-commerce, or SaaS applications, this solution is designed for efficiency, scalability, and automation, eliminating manual data handling and optimizing cloud costs.
 
 
-[Watch the Introduction video](https://github.com/tariqulismail/Data-Engineering/blob/main/End-to-End-ETL-Pipeline/Introduction.mp4)
+
+
+[![Watch the video](Images/Conclusion.png)](https://youtu.be/d9QKQ9IGC3c)
 
 ## Architecture
 
