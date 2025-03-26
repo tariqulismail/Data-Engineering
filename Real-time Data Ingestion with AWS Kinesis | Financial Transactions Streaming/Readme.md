@@ -1,4 +1,4 @@
-# AWS Kinesis Data Streams - Real-time Financial Transactions
+# Real-time Data Ingestion with AWS Kinesis | Financial Transactions Streaming Example
 
 ## Overview
 
