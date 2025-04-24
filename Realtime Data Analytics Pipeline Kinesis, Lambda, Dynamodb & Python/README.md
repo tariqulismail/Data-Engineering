@@ -102,6 +102,6 @@ Feel free to contribute by submitting **issues** or **pull requests**! 🚀
 
 ### Watch the full video
 
-[![Watch the video](Project_Architecture.png)]([https://youtu.be/d9QKQ9IGC3c](https://youtu.be/MhSwU2qioI8))
+[![Watch the video](Project_Architecture.png)](https://www.youtube.com/watch?v=MhSwU2qioI8&t=78s)
 
 
