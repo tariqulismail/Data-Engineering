@@ -96,5 +96,12 @@ python producer.py
 ## **Contributing**
 Feel free to contribute by submitting **issues** or **pull requests**! 🚀
 
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+### Watch the full video
+
+[![Watch the video](Project_Architecture.png)]([https://youtu.be/d9QKQ9IGC3c](https://youtu.be/MhSwU2qioI8))
+
+
