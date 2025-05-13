@@ -18,6 +18,9 @@ The solution follows a modern data architecture with the following components:
 - **Serving Layer**: Amazon Redshift as the data warehouse
 - **BI Layer**: Power BI/Tableau for visualization and analytics
 
+![Project Architecture](Customer360DataIntegrationArchitecture.png)
+
+
 ## 🔄 Data Pipeline
 
 ### Data Sources
