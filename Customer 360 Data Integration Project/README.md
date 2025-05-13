@@ -53,26 +53,28 @@ The solution follows a modern data architecture with the following components:
 ## 📦 Project Structure
 
 ```
-customer360/
-├── models/
-│   ├── staging/
-│   │   ├── stg_crm_customers.sql
-│   │   ├── stg_salesforce_contacts.sql
-│   │   ├── stg_ga_sessions.sql
-│   │   ├── stg_transactions.sql
-│   │   └── sources.yml
-│   ├── intermediate/
-│   │   ├── int_customer_identities.sql
-│   │   ├── int_purchase_history.sql
-│   │   └── int_web_activity.sql
-│   └── marts/
-│       ├── customer_360_profile.sql
-│       ├── customer_engagement.sql
-│       ├── channel_attribution.sql
-│       └── marts.yml
-├── dbt_project.yml
-├── profiles.yml
-└── packages.yml
+customer_360_project/
+├── airflow/
+│   └── dags/
+│       ├── customer_360_extract.py
+│       ├── load_to_redshift_staging.py
+│       └── dbt_transform.py           # The DAG we're focusing on
+├── dbt/
+│   ├── models/
+│   │   ├── staging/                   # Stage 1: Cleaned source data
+│   │   │   ├── stg_crm_customers.sql
+│   │   │   ├── stg_salesforce_contacts.sql
+│   │   │   ├── stg_ga_sessions.sql
+│   │   │   └── stg_transactions.sql
+│   │   └── marts/                     # Stage 2: Business-specific models
+│   │       ├── customer_360_profile.sql
+│   │       ├── customer_engagement.sql
+│   │       └── channel_attribution.sql
+│   ├── dbt_project.yml               # dbt project configuration
+│   ├── profiles.yml                  # Database connection profiles
+│   └── packages.yml                  # dbt package dependencies
+└── docker-compose.yml                # For containerization
+
 ```
 
 ## ⚙️ Setup and Installation
