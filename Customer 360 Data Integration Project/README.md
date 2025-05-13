@@ -53,55 +53,26 @@ The solution follows a modern data architecture with the following components:
 ## 📦 Project Structure
 
 ```
-customer_360/
-│
-├── README.md                     # Project documentation
-│
-├── architecture/
-│   └── architecture_diagram.png  # High-level architecture visualization
-│
-├── dags/                         # Airflow DAG definitions
-│   ├── crm_extract.py            # MySQL CRM data extraction
-│   ├── salesforce_extract.py     # Salesforce data extraction
-│   ├── ga_extract.py             # Google Analytics extraction
-│   └── offline_extract.py        # CSV offline transaction extraction
-│
-├── mock_data/                    # Data generation scripts
-│   ├── generate_crm_data.py      # Faker script for CRM data
-│   └── generate_transactions.py  # Mockaroo script for transaction data
-│
-├── models/                       # dbt models
-│   ├── dbt_project.yml           # dbt project configuration
-│   ├── sources.yml               # Data source definitions
-│   ├── staging/                  # Staging models
-│   │   ├── stg_crm.sql
-│   │   ├── stg_salesforce.sql
-│   │   ├── stg_ga.sql
-│   │   └── stg_transactions.sql
-│   ├── intermediate/             # Intermediate models
-│   │   ├── int_customer_profile.sql
-│   │   └── int_customer_activity.sql
-│   └── marts/                    # Final dimensional models
-│       ├── dim_customer.sql
-│       ├── fct_transactions.sql
-│       └── customer_360.sql
-│
-├── validation/                   # Data validation
-│   ├── expectations/             # great_expectations configurations
-│   └── validate_data.py          # Validation script
-│
-├── sql_scripts/                  # Helper SQL scripts
-│   ├── create_schemas.sql        # Schema creation scripts
-│   └── reporting_views.sql       # View definitions for reporting
-│
-├── docker/                       # Docker configuration
-│   ├── Dockerfile                # Base image definition
-│   └── docker-compose.yml        # Service configuration
-│
-└── .github/                      # CI/CD configuration
-    └── workflows/
-        ├── dbt_test.yml          # Workflow for dbt tests
-        └── deploy.yml            # Deployment workflow
+customer360/
+├── models/
+│   ├── staging/
+│   │   ├── stg_crm_customers.sql
+│   │   ├── stg_salesforce_contacts.sql
+│   │   ├── stg_ga_sessions.sql
+│   │   ├── stg_transactions.sql
+│   │   └── sources.yml
+│   ├── intermediate/
+│   │   ├── int_customer_identities.sql
+│   │   ├── int_purchase_history.sql
+│   │   └── int_web_activity.sql
+│   └── marts/
+│       ├── customer_360_profile.sql
+│       ├── customer_engagement.sql
+│       ├── channel_attribution.sql
+│       └── marts.yml
+├── dbt_project.yml
+├── profiles.yml
+└── packages.yml
 ```
 
 ## ⚙️ Setup and Installation
