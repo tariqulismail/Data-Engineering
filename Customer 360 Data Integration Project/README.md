@@ -142,6 +142,13 @@ dbt seed
 - Provides insight into the customer acquisition journey
 - Helps optimize marketing spend
 
+
+![Customer360OverviewDashboard](Customer360OverviewDashboard.png)
+
+
+![CustomerJourney](CustomerJourney.png)
+
+
 ## 🔍 Monitoring & CI/CD
 
 - **GitHub Actions**: Automated testing and deployment
