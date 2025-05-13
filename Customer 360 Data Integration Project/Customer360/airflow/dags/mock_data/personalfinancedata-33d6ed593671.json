@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "personalfinancedata",
+  "private_key_id": "33d6ed59367185691594d643c9c0785271977308",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDa6aWqEJjM5Ymp\ntBa3nodPRJhmwrvxA3Y5BdF46oqmQlBM1LJUebjSX0J7Ms1OB0gX4DRA26N1Ng0Y\nXihfxazAmLOKAPdWlmZhp/3GFJ7HXvThyMZiQkp0OO+TewsKywhvaKTg8b7hwfhp\n1GrZLegBYl5mClVUgbGN4aevIcQSH9o9o2XDwbQIsRa5Uc1yA6WOMYEMKcqBGzaC\nDsGO8p+/gRssaRP2ydO6HyUngy3BBhGbodqzKp7dCCeqpNQNYu0zfE00rfmL2l7H\nSKglbUL1xEiqTOoOr3v80QVCNLMbjh3Uh86HhNXwqm2p36MmoinXRkhGZ87HyxGq\nciFnLWy7AgMBAAECggEATrISr2XDAFl92QdX6U9wdgMDRGG53WTwsYQRbwXlrOoG\n4u/NYcfWNK4xAIfdPTEp7gdX0X8DrmWtZHaozfEKbrwWQsShJbvwdyfEd1o/UA2n\nO6mJA5awHELBgUOIzyr4z9APAZx2EcNAsY6+kG9LyX+aztTlIvlyoj4eITuiuB6X\n9RDWAeKyHql6wPS225DZK1X9J1gSfhpRZpmV8l7p3Yx5kok5N6yr2jwQyxr/x1uT\nnfpQxrovDxOzWij71G0Gy2scpFpo//ID9R7bAAUgLEWpaG15MbRjZ0EIHfoWPEq9\ndWzDx+unU1Wlv2vjsnDTXgSulJeRVnkW3676mi10QQKBgQD0MTPSglJWFjLOqUZp\nIa76XBM2BGvkn8yr/X3al8chT6Tmw+I18lyJTO58zZRFXLvLBfB6glnGTvQFOrr+\nrEUcFjF9s6EAkcoLZN1IUlu7rw0iOLtW2Fu8LdF1wkz+VliZJcCZueZ/fNHDiwu8\njrZj0scwE1ESvJ+uvtapdmk6ewKBgQDlf4P8hMJbV0Z8JmmoRzpnHhyziW0hydlU\nEDCwEgbpHCN5ZEOb1qCjYgaqTirhCtpRLFSWWjHB8fqSoZbvpMrJW0uU1qBJM+z1\nJYyu3EawUZEpCibbkrceXSehdhGt+ZQZfgOab/KtgELbq0rZyL39wys9Xpm7TIIW\ntqAylfwiwQKBgASRbxC/E1885xJqpECPOsDAPDPEfWg3fRKymUofkMAUx1bxzyeH\nMyf2Yne/OMjbZT/1CnygN6G4FGSMprbg7iIKYD6jv51NHOR9rI4PzFuEeNBtE0Qa\npAyvJr33No2DfADRbfryOVelNB9eWIfce5j+dm91zQx2rt4L/+QHrQxFAoGBAKGS\n0R2rahpcq6ckdCahXyDSNmrASjELpxJkA6MyTeM4iFEioebJiHb+wKqONeoSdfnI\nOBVSks10y3EIivdVEeAJgoDbSiW/hQhi01UYiDwCcSxvlUPpWzrpYsluEqxlljsM\nWQUV48j7EBcP1bbWecx656phO+J9zuim0spKhiUBAoGBAO7uDfqViB05VX2OCIKe\nNPqIpSb8YN5tYbovBMnZB5NjppOMl2bAkgUAS2+YYsznGTgrn82qa7us9Dxb+rdQ\nIivtx2iWK3Ta/XxZ9hmhCjaoIOFzGWldYs2EFvCMCtMcc5SsAxZPWfmmOChnL7W3\n14Q9Eh/PobOsqcx0jLP0yv8+\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-test@personalfinancedata.iam.gserviceaccount.com",
+  "client_id": "113475466729323336792",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-test%40personalfinancedata.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

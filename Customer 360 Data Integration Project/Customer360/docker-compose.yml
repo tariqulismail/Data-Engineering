@@ -1,0 +1,16 @@
+version: '3'
+services:
+
+  airflowproject:
+    image: customer360:latest
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - REDSHIFT_USER='admin'
+      - REDSHIFT_PASSWORD='Admin#12345'
+    volumes:
+      #- ./airflow:/opt/airflow
+      - ./airflow/dags:/opt/airflow/dags
+      - ./dbt:/opt/airflow/dbt
+    ports:
+      - "8080:8080" 
+    command: airflow standalone
