@@ -1,51 +1,78 @@
+# 🚀 End-to-End Cloud-Native Monitoring Application on Kubernetes (AWS EKS)
 
-# TypeScript
+This project demonstrates how to build and deploy a Python-based system monitoring application using **Flask**, **psutil**, **Docker**, **Amazon ECR**, and **Kubernetes (EKS)**. It covers everything from writing the monitoring logic to deploying a containerized app in a production-ready Kubernetes environment on AWS.
 
-[![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
-[![Devops Build Status](https://dev.azure.com/typescript/TypeScript/_apis/build/status/Typescript/node10)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7)
-[![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
-[![Downloads](https://img.shields.io/npm/dm/typescript.svg)](https://www.npmjs.com/package/typescript)
+---
 
-[TypeScript](https://www.typescriptlang.org/) is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript. Try it out at the [playground](https://www.typescriptlang.org/play/), and stay up to date via [our blog](https://blogs.msdn.microsoft.com/typescript) and [Twitter account](https://twitter.com/typescript).
+## 📌 Features
 
-Find others who are using TypeScript at [our community page](https://www.typescriptlang.org/community/).
+- ✅ System Resource Monitoring using `psutil`
+- ✅ Flask-based Web API to serve metrics
+- ✅ Dockerized application with custom `Dockerfile`
+- ✅ Push image to AWS ECR using `boto3`
+- ✅ Deploy container to AWS EKS with Kubernetes manifests
+- ✅ Kubernetes Deployments and Services written in Python
 
-## Installing
+---
 
-For the latest stable version:
+## 🧠 Tech Stack
+
+- **Python 3.10+**
+- **Flask** – Micro web framework for Python
+- **psutil** – System and process utilities
+- **Docker** – Containerization platform
+- **AWS ECR** – Elastic Container Registry for image storage
+- **AWS EKS** – Managed Kubernetes Service
+- **Kubernetes** – Container orchestration platform
+- **Boto3** – AWS SDK for Python
+
+---
+
+## 🛠️ Project Structure
+
+├── app/
+│   ├── app.py               # Flask Monitoring App using psutil
+│   └── requirements.txt     # Dependencies
+├── docker/
+│   └── Dockerfile           # Dockerfile for building the image
+├── k8s/
+│   ├── deployment.py        # Kubernetes Deployment via Python
+│   └── service.py           # Kubernetes Service via Python
+├── ecr/
+│   └── push_to_ecr.py       # Script to push Docker image to ECR using Boto3
+├── README.md
+
+---
+
+## 🚧 Step-by-Step Guide
+
+### 1. 🔍 Monitoring Application with Flask & psutil
 
 ```bash
-npm install -g typescript
-```
+cd app/
+pip install -r requirements.txt
+python app.py
 
-For our nightly builds:
+Access the monitoring app locally at http://localhost:5000/metrics.
 
-```bash
-npm install -g typescript@next
-```
+2. 🐳 Dockerize the Application
 
-## Contribute
+cd docker/
+docker build -t monitoring-app:latest .
+docker run -p 5000:5000 monitoring-app
 
-There are many ways to [contribute](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md) to TypeScript.
-* [Submit bugs](https://github.com/microsoft/TypeScript/issues) and help us verify fixes as they are checked in.
-* Review the [source code changes](https://github.com/microsoft/TypeScript/pulls).
-* Engage with other TypeScript users and developers on [StackOverflow](https://stackoverflow.com/questions/tagged/typescript).
-* Help each other in the [TypeScript Community Discord](https://discord.gg/typescript).
-* Join the [#typescript](https://twitter.com/search?q=%23TypeScript) discussion on Twitter.
-* [Contribute bug fixes](https://github.com/microsoft/TypeScript/blob/main/CONTRIBUTING.md).
-* Read the archived language specification ([docx](https://github.com/microsoft/TypeScript/blob/main/doc/TypeScript%20Language%20Specification%20-%20ARCHIVED.docx?raw=true),
- [pdf](https://github.com/microsoft/TypeScript/blob/main/doc/TypeScript%20Language%20Specification%20-%20ARCHIVED.pdf?raw=true), [md](https://github.com/microsoft/TypeScript/blob/main/doc/spec-ARCHIVED.md)).
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see
-the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
-with any additional questions or comments.
+3. ☁️ Push Docker Image to AWS ECR
+cd ecr/
+python push_to_ecr.py
 
-## Documentation
+This script will:
+	•	Authenticate Docker with ECR
+	•	Create an ECR repository (if not existing)
+	•	Tag and push the local Docker image
 
-*  [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
-*  [Programming handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
-*  [Homepage](https://www.typescriptlang.org/)
+⸻
 
-## Roadmap
-
-For details on our planned features and future direction please refer to our [roadmap](https://github.com/microsoft/TypeScript/wiki/Roadmap).
+4. ☸️ Deploy to Kubernetes on AWS EKS
+	1.	Create an EKS Cluster using AWS Console or CLI.
+	2.	Configure kubectl to use your EKS cluster.
