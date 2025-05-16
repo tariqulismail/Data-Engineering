@@ -17,7 +17,7 @@ This project demonstrates how to deploy a basic webpage hosting environment usin
 
 
 
-![Project Architecture](Project_Architecture.png)
+![Project Architecture](AWSCloudFormation.png)
 
 
 
