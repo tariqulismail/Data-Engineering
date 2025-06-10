@@ -1,0 +1,1001 @@
+product_id,product_name,category,subcategory,brand,unit_price,cost_price,weight_lbs,launch_date,status
+PROD_000001,Focused human-resource solution Claim,Home & Garden,Home & Garden_4,BrandF,393.37,236.02,16.06,2023-12-20,Discontinued
+PROD_000002,Cloned intangible installation Give,Books,Books_1,BrandC,395.81,237.49,7.71,2023-02-24,Active
+PROD_000003,Operative analyzing database There,Automotive,Automotive_4,BrandD,107.79,64.67,7.06,2022-07-15,Discontinued
+PROD_000004,Visionary optimal standardization Again,Sports,Sports_4,BrandA,333.42,200.05,6.63,2024-09-20,Active
+PROD_000005,Virtual object-oriented implementation Me,Books,Books_4,BrandF,324.33,194.6,13.62,2020-06-18,Active
+PROD_000006,Multi-channeled exuding system engine In,Electronics,Electronics_3,BrandB,439.75,263.85,3.65,2024-09-14,Active
+PROD_000007,Operative national synergy Simple,Electronics,Electronics_3,BrandB,302.32,181.39,14.6,2023-03-02,Active
+PROD_000008,Robust directional matrix Discuss,Toys,Toys_5,BrandB,198.75,119.25,3.88,2021-10-19,Active
+PROD_000009,Pre-emptive 4thgeneration info-mediaries Great,Toys,Toys_5,BrandA,264.76,158.86,13.77,2023-10-13,Discontinued
+PROD_000010,Open-architected uniform concept Though,Beauty,Beauty_3,BrandG,44.29,26.57,12.5,2022-10-09,Active
+PROD_000011,De-engineered regional monitoring Agreement,Books,Books_3,BrandE,336.78,202.07,8.11,2024-12-20,Active
+PROD_000012,Reverse-engineered non-volatile protocol Agreement,Home & Garden,Home & Garden_4,BrandD,216.02,129.61,13.58,2020-11-08,Discontinued
+PROD_000013,Optimized client-driven Local Area Network Court,Books,Books_1,BrandG,278.49,167.09,6.15,2020-09-07,Discontinued
+PROD_000014,Multi-tiered fresh-thinking data-warehouse Look,Toys,Toys_4,BrandF,237.84,142.71,13.54,2022-01-26,Active
+PROD_000015,Virtual homogeneous focus group Soldier,Home & Garden,Home & Garden_5,BrandB,149.06,89.43,6.77,2025-03-11,Discontinued
+PROD_000016,Operative eco-centric artificial intelligence Many,Books,Books_2,BrandD,405.22,243.13,0.59,2020-07-13,Discontinued
+PROD_000017,Quality-focused actuating hardware Door,Automotive,Automotive_5,BrandB,233.15,139.89,3.97,2023-09-08,Active
+PROD_000018,Vision-oriented solution-oriented analyzer Somebody,Automotive,Automotive_1,BrandG,129.55,77.73,17.86,2020-08-03,Active
+PROD_000019,Fully-configurable dedicated adapter Pretty,Toys,Toys_5,BrandD,96.18,57.71,9.34,2021-03-13,Discontinued
+PROD_000020,De-engineered methodical secured line Building,Clothing,Clothing_4,BrandH,75.34,45.2,13.38,2023-04-04,Active
+PROD_000021,Extended maximized standardization Establish,Automotive,Automotive_5,BrandG,416.98,250.19,8.97,2024-04-09,Discontinued
+PROD_000022,Down-sized real-time portal Small,Automotive,Automotive_2,BrandH,137.0,82.2,16.81,2024-01-11,Active
+PROD_000023,Vision-oriented cohesive function Box,Automotive,Automotive_1,BrandD,144.55,86.73,14.3,2023-05-01,Discontinued
+PROD_000024,Integrated object-oriented service-desk Whatever,Books,Books_5,BrandF,166.66,99.99,1.7,2025-03-24,Discontinued
+PROD_000025,Object-based transitional customer loyalty Bag,Sports,Sports_2,BrandG,350.04,210.02,1.38,2023-05-25,Active
+PROD_000026,Self-enabling dynamic benchmark Same,Beauty,Beauty_2,BrandH,213.73,128.24,16.67,2024-04-19,Active
+PROD_000027,Synergized radical workforce Camera,Electronics,Electronics_3,BrandG,243.72,146.23,6.04,2024-06-01,Active
+PROD_000028,Re-contextualized zero tolerance analyzer Hand,Toys,Toys_3,BrandD,249.23,149.54,8.77,2023-02-06,Active
+PROD_000029,Switchable holistic architecture Move,Toys,Toys_4,BrandF,337.75,202.65,14.51,2023-09-04,Active
+PROD_000030,Advanced intangible matrix Born,Home & Garden,Home & Garden_5,BrandA,454.4,272.64,11.33,2022-08-09,Active
+PROD_000031,Multi-lateral scalable knowledgebase Second,Clothing,Clothing_4,BrandG,76.49,45.9,3.72,2021-03-14,Active
+PROD_000032,Enhanced upward-trending model Rather,Toys,Toys_3,BrandF,113.71,68.23,6.82,2021-10-14,Active
+PROD_000033,Public-key zero-defect matrices Make,Books,Books_1,BrandG,133.61,80.17,9.46,2022-08-12,Active
+PROD_000034,Upgradable optimizing flexibility Future,Beauty,Beauty_1,BrandD,328.57,197.14,15.11,2024-09-11,Discontinued
+PROD_000035,Cross-group even-keeled knowledge user Either,Sports,Sports_2,BrandA,314.45,188.67,2.61,2024-03-10,Active
+PROD_000036,Re-contextualized reciprocal secured line Hundred,Sports,Sports_3,BrandH,352.74,211.64,3.44,2022-02-12,Active
+PROD_000037,Proactive fresh-thinking contingency Method,Home & Garden,Home & Garden_1,BrandE,62.97,37.78,18.58,2021-06-30,Active
+PROD_000038,Fundamental global focus group Up,Toys,Toys_2,BrandD,47.24,28.34,2.13,2023-06-02,Active
+PROD_000039,Grass-roots next generation access Nation,Clothing,Clothing_4,BrandA,180.13,108.08,13.26,2025-03-06,Active
+PROD_000040,Configurable disintermediate success Investment,Beauty,Beauty_4,BrandA,426.29,255.78,2.2,2022-11-17,Active
+PROD_000041,Virtual disintermediate solution Maybe,Automotive,Automotive_5,BrandC,223.39,134.03,19.31,2023-09-01,Active
+PROD_000042,Pre-emptive local utilization Adult,Automotive,Automotive_5,BrandH,223.43,134.06,5.44,2020-11-25,Discontinued
+PROD_000043,Face-to-face impactful solution Either,Clothing,Clothing_2,BrandE,442.0,265.2,15.03,2021-12-19,Active
+PROD_000044,Reduced holistic leverage On,Beauty,Beauty_3,BrandA,252.21,151.33,3.72,2023-02-02,Discontinued
+PROD_000045,Optimized value-added neural-net Give,Beauty,Beauty_5,BrandE,176.77,106.06,14.05,2022-03-12,Active
+PROD_000046,Persevering encompassing function Enter,Electronics,Electronics_4,BrandD,51.95,31.17,9.82,2021-08-03,Discontinued
+PROD_000047,Up-sized content-based functionalities Call,Automotive,Automotive_1,BrandH,229.61,137.76,1.95,2024-02-25,Discontinued
+PROD_000048,Virtual system-worthy contingency Dark,Toys,Toys_5,BrandD,160.04,96.02,7.44,2021-07-08,Active
+PROD_000049,Polarized even-keeled success Perform,Toys,Toys_4,BrandF,182.39,109.43,5.49,2025-04-27,Active
+PROD_000050,Progressive radical forecast Black,Sports,Sports_3,BrandB,363.43,218.06,2.48,2024-08-07,Discontinued
+PROD_000051,Implemented discrete hierarchy Country,Sports,Sports_3,BrandD,371.92,223.15,14.52,2021-12-12,Active
+PROD_000052,Triple-buffered national capacity Eye,Clothing,Clothing_3,BrandD,155.16,93.1,3.67,2020-08-30,Active
+PROD_000053,Business-focused neutral frame Save,Home & Garden,Home & Garden_1,BrandE,32.3,19.38,11.11,2025-02-26,Discontinued
+PROD_000054,Sharable web-enabled matrix Board,Automotive,Automotive_5,BrandB,437.63,262.58,5.76,2024-10-19,Active
+PROD_000055,Re-engineered executive leverage Measure,Automotive,Automotive_1,BrandF,100.34,60.2,5.12,2022-08-21,Active
+PROD_000056,Enterprise-wide actuating extranet Yeah,Clothing,Clothing_1,BrandB,206.35,123.81,11.58,2024-09-29,Active
+PROD_000057,Customizable asymmetric initiative Million,Home & Garden,Home & Garden_3,BrandC,407.46,244.48,1.8,2020-10-21,Discontinued
+PROD_000058,Self-enabling systemic application Civil,Clothing,Clothing_5,BrandG,307.1,184.26,4.59,2021-03-07,Active
+PROD_000059,Re-contextualized exuding artificial intelligence Energy,Automotive,Automotive_5,BrandH,155.7,93.42,19.8,2021-01-10,Active
+PROD_000060,Virtual intangible portal Pick,Electronics,Electronics_2,BrandB,474.32,284.59,12.55,2024-05-22,Active
+PROD_000061,Face-to-face zero-defect model Husband,Clothing,Clothing_5,BrandC,127.53,76.52,1.59,2022-09-09,Active
+PROD_000062,Organic exuding parallelism Laugh,Toys,Toys_4,BrandH,347.79,208.68,5.9,2021-12-17,Discontinued
+PROD_000063,Secured analyzing pricing structure Sister,Books,Books_4,BrandE,354.46,212.68,1.52,2020-12-06,Discontinued
+PROD_000064,Virtual demand-driven product Development,Books,Books_5,BrandD,218.32,130.99,4.57,2021-10-04,Discontinued
+PROD_000065,Configurable cohesive encoding Consumer,Books,Books_2,BrandC,44.99,26.99,15.87,2023-03-13,Active
+PROD_000066,Diverse 24hour installation Little,Automotive,Automotive_3,BrandB,239.66,143.8,14.02,2023-11-19,Active
+PROD_000067,Phased explicit alliance Each,Automotive,Automotive_1,BrandH,49.42,29.65,17.8,2021-11-16,Active
+PROD_000068,Horizontal tangible knowledgebase Avoid,Books,Books_5,BrandA,54.75,32.85,11.78,2023-11-15,Active
+PROD_000069,Fundamental zero tolerance utilization Process,Books,Books_2,BrandA,383.92,230.35,9.46,2023-05-21,Active
+PROD_000070,Exclusive interactive budgetary management Off,Books,Books_4,BrandC,498.5,299.1,12.73,2021-07-23,Active
+PROD_000071,Distributed encompassing circuit Away,Clothing,Clothing_3,BrandH,180.5,108.3,6.49,2020-09-24,Active
+PROD_000072,Integrated radical synergy Thank,Home & Garden,Home & Garden_4,BrandF,211.71,127.02,5.84,2023-04-13,Active
+PROD_000073,Horizontal leadingedge capability Management,Electronics,Electronics_3,BrandH,53.15,31.89,6.53,2023-11-18,Active
+PROD_000074,Total impactful flexibility Month,Electronics,Electronics_2,BrandH,212.49,127.49,10.42,2023-02-19,Active
+PROD_000075,Organic attitude-oriented policy Among,Automotive,Automotive_5,BrandA,109.74,65.85,2.71,2024-11-18,Active
+PROD_000076,User-centric fresh-thinking portal Enough,Automotive,Automotive_5,BrandH,69.5,41.7,16.01,2020-07-25,Discontinued
+PROD_000077,Focused systematic orchestration People,Books,Books_1,BrandA,280.6,168.36,4.57,2025-03-11,Active
+PROD_000078,Virtual systematic flexibility Part,Automotive,Automotive_2,BrandB,327.38,196.43,10.02,2020-08-20,Active
+PROD_000079,Versatile context-sensitive leverage Natural,Books,Books_4,BrandG,419.01,251.41,4.95,2023-09-11,Discontinued
+PROD_000080,Grass-roots contextually-based paradigm Least,Toys,Toys_5,BrandD,461.72,277.03,14.95,2023-08-11,Discontinued
+PROD_000081,Pre-emptive background leverage Happen,Clothing,Clothing_4,BrandE,388.61,233.17,6.86,2022-06-24,Active
+PROD_000082,Inverse static benchmark Toward,Electronics,Electronics_5,BrandE,365.76,219.46,11.64,2021-03-28,Active
+PROD_000083,Open-source system-worthy methodology Fight,Home & Garden,Home & Garden_3,BrandH,273.9,164.34,6.72,2023-10-01,Active
+PROD_000084,Open-architected well-modulated neural-net Although,Automotive,Automotive_2,BrandF,436.1,261.66,11.48,2022-09-16,Discontinued
+PROD_000085,Intuitive eco-centric Graphic Interface Business,Toys,Toys_4,BrandA,165.91,99.54,14.13,2025-04-15,Active
+PROD_000086,Open-architected multimedia ability Really,Toys,Toys_1,BrandC,252.71,151.63,2.61,2024-10-13,Active
+PROD_000087,Persistent incremental application Cup,Clothing,Clothing_4,BrandH,58.86,35.32,0.41,2023-01-11,Discontinued
+PROD_000088,Secured web-enabled methodology Process,Toys,Toys_3,BrandC,46.67,28.0,6.84,2022-08-24,Active
+PROD_000089,Business-focused demand-driven flexibility Often,Clothing,Clothing_5,BrandF,427.65,256.59,7.66,2021-02-02,Active
+PROD_000090,Horizontal leadingedge standardization Memory,Automotive,Automotive_2,BrandA,312.56,187.53,12.66,2021-01-15,Active
+PROD_000091,Self-enabling real-time website Education,Sports,Sports_1,BrandB,222.65,133.59,15.23,2023-12-26,Active
+PROD_000092,Integrated neutral access Old,Automotive,Automotive_1,BrandC,350.06,210.04,1.02,2022-06-23,Active
+PROD_000093,Face-to-face bifurcated Local Area Network Your,Books,Books_2,BrandF,193.67,116.2,4.96,2021-01-08,Active
+PROD_000094,Distributed modular structure Film,Home & Garden,Home & Garden_5,BrandC,95.78,57.47,17.43,2022-12-24,Discontinued
+PROD_000095,Future-proofed intangible matrices Marriage,Automotive,Automotive_3,BrandC,123.77,74.26,9.25,2021-08-27,Active
+PROD_000096,Reactive client-server info-mediaries Cut,Automotive,Automotive_2,BrandE,342.03,205.22,1.57,2025-01-17,Active
+PROD_000097,Profound value-added challenge Treat,Books,Books_4,BrandG,348.25,208.95,16.92,2020-10-13,Discontinued
+PROD_000098,Visionary intangible Graphical User Interface World,Toys,Toys_4,BrandH,62.26,37.36,11.48,2024-05-17,Active
+PROD_000099,Future-proofed 24hour forecast She,Books,Books_4,BrandA,489.19,293.52,5.56,2021-12-05,Active
+PROD_000100,Reverse-engineered optimal protocol Might,Automotive,Automotive_2,BrandE,390.11,234.07,12.18,2024-10-05,Active
+PROD_000101,Organized national matrices Hair,Sports,Sports_2,BrandD,314.24,188.54,12.6,2022-02-05,Active
+PROD_000102,Virtual needs-based implementation Lose,Books,Books_3,BrandH,26.35,15.81,14.67,2025-02-06,Active
+PROD_000103,Ergonomic tangible encoding Owner,Books,Books_2,BrandF,376.27,225.76,4.1,2022-05-08,Active
+PROD_000104,Vision-oriented incremental analyzer Friend,Books,Books_4,BrandC,135.92,81.55,19.35,2024-02-28,Active
+PROD_000105,Triple-buffered homogeneous info-mediaries Record,Beauty,Beauty_1,BrandB,239.48,143.69,2.9,2024-05-25,Discontinued
+PROD_000106,Streamlined coherent methodology Although,Toys,Toys_4,BrandF,54.25,32.55,0.38,2021-01-24,Active
+PROD_000107,Reverse-engineered full-range attitude Two,Automotive,Automotive_3,BrandF,339.69,203.81,11.73,2024-08-29,Active
+PROD_000108,Cross-platform multi-tasking knowledgebase Administration,Clothing,Clothing_5,BrandD,241.02,144.61,17.7,2024-01-18,Active
+PROD_000109,Open-source solution-oriented collaboration Bad,Sports,Sports_4,BrandB,321.35,192.81,18.2,2022-10-13,Active
+PROD_000110,Fundamental global process improvement Room,Toys,Toys_1,BrandB,78.49,47.09,6.16,2022-06-04,Active
+PROD_000111,Configurable full-range service-desk Town,Clothing,Clothing_5,BrandB,125.05,75.03,2.8,2023-02-07,Active
+PROD_000112,Intuitive responsive structure Very,Beauty,Beauty_2,BrandG,297.8,178.68,17.72,2024-03-26,Active
+PROD_000113,Quality-focused 5thgeneration process improvement Authority,Automotive,Automotive_3,BrandG,470.14,282.08,0.75,2021-08-10,Active
+PROD_000114,Synergized executive emulation Skin,Sports,Sports_2,BrandH,227.9,136.74,17.12,2020-11-20,Active
+PROD_000115,Cross-platform well-modulated productivity Score,Beauty,Beauty_3,BrandF,39.67,23.8,3.88,2024-10-19,Active
+PROD_000116,Organic composite solution Firm,Automotive,Automotive_5,BrandB,334.76,200.85,19.42,2024-12-14,Active
+PROD_000117,Balanced fresh-thinking utilization Arrive,Beauty,Beauty_5,BrandD,494.52,296.71,4.18,2021-11-25,Discontinued
+PROD_000118,Multi-layered intermediate circuit Election,Sports,Sports_2,BrandD,170.99,102.6,15.79,2023-02-03,Active
+PROD_000119,Re-contextualized systemic utilization Couple,Books,Books_5,BrandC,493.89,296.33,5.09,2021-04-14,Discontinued
+PROD_000120,Configurable reciprocal implementation President,Clothing,Clothing_3,BrandA,74.58,44.75,15.82,2023-11-08,Discontinued
+PROD_000121,Proactive optimal circuit Each,Beauty,Beauty_1,BrandA,95.38,57.23,2.62,2022-09-28,Active
+PROD_000122,Function-based logistical extranet Reflect,Clothing,Clothing_3,BrandB,243.36,146.02,10.31,2020-06-25,Active
+PROD_000123,Persistent executive service-desk Office,Automotive,Automotive_1,BrandD,473.25,283.95,14.57,2021-03-23,Active
+PROD_000124,Organic grid-enabled parallelism Firm,Automotive,Automotive_4,BrandA,39.8,23.88,16.96,2023-08-19,Active
+PROD_000125,Optimized system-worthy extranet Loss,Clothing,Clothing_4,BrandH,359.08,215.45,1.56,2024-08-30,Active
+PROD_000126,Exclusive human-resource matrices Both,Beauty,Beauty_3,BrandC,42.18,25.31,12.52,2021-08-15,Active
+PROD_000127,Re-engineered heuristic orchestration Find,Toys,Toys_5,BrandE,232.32,139.39,8.66,2025-05-26,Active
+PROD_000128,Implemented 3rdgeneration protocol Individual,Sports,Sports_2,BrandG,231.26,138.76,8.33,2021-10-22,Active
+PROD_000129,Re-contextualized systemic time-frame Size,Toys,Toys_3,BrandG,367.51,220.51,8.59,2025-04-21,Active
+PROD_000130,Robust value-added methodology There,Beauty,Beauty_4,BrandC,346.54,207.93,1.44,2024-12-15,Active
+PROD_000131,Horizontal zero-defect website Drug,Clothing,Clothing_3,BrandG,57.32,34.39,16.25,2023-06-22,Active
+PROD_000132,Multi-channeled directional productivity Customer,Beauty,Beauty_4,BrandB,211.3,126.78,17.38,2023-07-17,Active
+PROD_000133,Synergistic web-enabled success Speak,Books,Books_5,BrandE,182.31,109.38,10.2,2023-09-25,Discontinued
+PROD_000134,Devolved responsive attitude Well,Automotive,Automotive_3,BrandD,425.16,255.1,16.92,2023-07-29,Active
+PROD_000135,Balanced fault-tolerant toolset Let,Clothing,Clothing_4,BrandE,291.31,174.79,16.92,2020-08-07,Active
+PROD_000136,Multi-lateral upward-trending capacity Believe,Books,Books_3,BrandA,98.4,59.04,18.44,2024-12-25,Active
+PROD_000137,Inverse value-added instruction set Continue,Electronics,Electronics_5,BrandC,436.23,261.74,13.18,2021-06-09,Active
+PROD_000138,Quality-focused high-level moderator More,Home & Garden,Home & Garden_5,BrandA,54.96,32.98,4.38,2025-01-01,Active
+PROD_000139,Down-sized eco-centric matrices Sure,Automotive,Automotive_3,BrandF,87.13,52.28,14.46,2021-11-29,Active
+PROD_000140,Mandatory bifurcated Local Area Network Bag,Electronics,Electronics_5,BrandC,87.13,52.28,1.09,2021-02-20,Active
+PROD_000141,Face-to-face systematic success Represent,Books,Books_4,BrandH,334.35,200.61,12.18,2025-05-03,Active
+PROD_000142,Realigned high-level array Street,Books,Books_1,BrandD,379.92,227.95,6.97,2022-05-29,Active
+PROD_000143,Fundamental national capability Look,Books,Books_3,BrandH,268.2,160.92,1.0,2022-04-12,Active
+PROD_000144,User-friendly systematic firmware Pattern,Electronics,Electronics_2,BrandA,110.17,66.1,15.37,2022-05-05,Active
+PROD_000145,Sharable holistic benchmark Republican,Books,Books_4,BrandF,68.79,41.28,14.97,2021-08-09,Discontinued
+PROD_000146,Assimilated regional open architecture Generation,Home & Garden,Home & Garden_2,BrandG,270.97,162.58,10.06,2025-01-05,Active
+PROD_000147,Face-to-face secondary architecture Prove,Clothing,Clothing_1,BrandG,432.26,259.36,8.78,2024-07-22,Active
+PROD_000148,Total exuding projection Issue,Clothing,Clothing_5,BrandF,292.12,175.27,8.15,2021-01-07,Active
+PROD_000149,Balanced 5thgeneration framework Mind,Books,Books_3,BrandB,208.47,125.08,3.52,2021-01-06,Active
+PROD_000150,Front-line national challenge Important,Beauty,Beauty_1,BrandB,223.99,134.39,4.94,2022-09-14,Active
+PROD_000151,Synchronized value-added standardization Young,Clothing,Clothing_3,BrandG,436.56,261.93,4.51,2023-02-19,Discontinued
+PROD_000152,Reverse-engineered value-added superstructure Clear,Clothing,Clothing_2,BrandB,270.0,162.0,18.13,2024-11-11,Active
+PROD_000153,Streamlined bandwidth-monitored matrix Power,Beauty,Beauty_2,BrandC,125.77,75.46,5.19,2022-06-23,Discontinued
+PROD_000154,Grass-roots 5thgeneration solution Hospital,Home & Garden,Home & Garden_4,BrandB,96.8,58.08,9.33,2021-07-09,Active
+PROD_000155,Organic disintermediate hierarchy Bit,Beauty,Beauty_1,BrandF,83.97,50.38,9.43,2025-05-05,Active
+PROD_000156,Multi-layered needs-based project Her,Books,Books_1,BrandA,182.45,109.47,6.28,2020-09-26,Active
+PROD_000157,Grass-roots content-based capability Thus,Electronics,Electronics_3,BrandA,190.68,114.41,1.63,2024-07-22,Active
+PROD_000158,Cross-group stable data-warehouse Quality,Toys,Toys_1,BrandH,294.36,176.62,9.05,2023-08-20,Discontinued
+PROD_000159,Ameliorated actuating toolset Goal,Beauty,Beauty_1,BrandH,255.67,153.4,9.07,2021-08-27,Active
+PROD_000160,De-engineered zero tolerance open system Describe,Clothing,Clothing_4,BrandC,29.18,17.51,19.82,2020-10-11,Discontinued
+PROD_000161,Virtual neutral database Peace,Beauty,Beauty_4,BrandF,459.79,275.87,8.23,2021-07-07,Active
+PROD_000162,Focused full-range time-frame Choose,Electronics,Electronics_1,BrandF,42.3,25.38,11.2,2024-05-18,Active
+PROD_000163,Right-sized 24hour focus group Town,Books,Books_5,BrandE,364.63,218.78,17.48,2025-05-10,Active
+PROD_000164,De-engineered needs-based extranet Success,Clothing,Clothing_3,BrandC,459.21,275.52,19.36,2021-04-22,Active
+PROD_000165,Switchable 4thgeneration capacity Administration,Home & Garden,Home & Garden_4,BrandB,161.7,97.02,12.91,2022-03-24,Active
+PROD_000166,Front-line optimizing Graphic Interface Admit,Home & Garden,Home & Garden_4,BrandB,326.55,195.93,10.22,2021-04-22,Active
+PROD_000167,Business-focused clear-thinking support Know,Beauty,Beauty_2,BrandE,98.33,59.0,6.9,2023-01-25,Active
+PROD_000168,User-friendly asymmetric leverage List,Sports,Sports_2,BrandD,499.99,299.99,1.64,2024-04-29,Active
+PROD_000169,Profound optimizing benchmark Live,Electronics,Electronics_5,BrandF,439.43,263.66,2.71,2022-12-15,Active
+PROD_000170,Seamless 6thgeneration superstructure Step,Home & Garden,Home & Garden_5,BrandC,98.61,59.17,16.2,2024-12-24,Discontinued
+PROD_000171,Switchable multi-state framework Low,Automotive,Automotive_2,BrandA,211.32,126.79,19.39,2023-08-27,Active
+PROD_000172,Assimilated analyzing matrices Throw,Automotive,Automotive_3,BrandD,271.67,163.0,19.32,2022-06-11,Active
+PROD_000173,Synergized bi-directional matrix Seem,Sports,Sports_5,BrandF,342.37,205.42,19.69,2024-12-26,Active
+PROD_000174,Compatible attitude-oriented Graphic Interface Political,Books,Books_4,BrandG,256.42,153.85,19.33,2021-03-06,Discontinued
+PROD_000175,De-engineered even-keeled process improvement Property,Home & Garden,Home & Garden_4,BrandE,35.57,21.34,17.49,2023-05-13,Active
+PROD_000176,Universal fresh-thinking implementation Picture,Clothing,Clothing_2,BrandE,51.1,30.66,5.53,2023-02-02,Discontinued
+PROD_000177,Persevering motivating portal Law,Toys,Toys_2,BrandB,473.74,284.25,16.35,2020-12-06,Active
+PROD_000178,Total bifurcated projection Rather,Electronics,Electronics_5,BrandG,36.1,21.66,7.54,2024-10-28,Active
+PROD_000179,Reactive uniform data-warehouse Law,Clothing,Clothing_3,BrandF,120.02,72.01,18.62,2022-09-10,Active
+PROD_000180,Focused incremental Graphical User Interface Their,Home & Garden,Home & Garden_4,BrandC,28.77,17.26,13.95,2022-09-14,Discontinued
+PROD_000181,Operative upward-trending attitude Form,Automotive,Automotive_1,BrandH,311.52,186.91,0.48,2022-07-27,Discontinued
+PROD_000182,Synchronized eco-centric hub Claim,Home & Garden,Home & Garden_3,BrandG,64.48,38.69,4.83,2023-11-14,Active
+PROD_000183,Phased asymmetric array Theory,Electronics,Electronics_5,BrandD,215.71,129.43,9.2,2020-11-10,Active
+PROD_000184,Optional bandwidth-monitored synergy Single,Automotive,Automotive_5,BrandA,319.66,191.79,4.91,2022-04-19,Discontinued
+PROD_000185,De-engineered next generation approach Peace,Books,Books_3,BrandG,10.77,6.46,4.89,2025-03-21,Active
+PROD_000186,Realigned full-range secured line Can,Home & Garden,Home & Garden_3,BrandB,266.51,159.9,1.45,2022-06-28,Active
+PROD_000187,Synchronized web-enabled interface Trip,Toys,Toys_4,BrandH,31.33,18.8,19.62,2025-01-06,Active
+PROD_000188,Business-focused executive policy Forget,Electronics,Electronics_3,BrandF,396.37,237.82,4.9,2022-03-12,Active
+PROD_000189,Re-engineered motivating data-warehouse Clear,Beauty,Beauty_5,BrandC,31.72,19.03,6.84,2023-09-20,Discontinued
+PROD_000190,Face-to-face bi-directional hardware Through,Automotive,Automotive_2,BrandH,319.55,191.73,1.36,2023-03-21,Active
+PROD_000191,Customizable well-modulated focus group Painting,Electronics,Electronics_2,BrandE,108.78,65.27,17.73,2021-07-26,Active
+PROD_000192,Optimized next generation throughput Tell,Books,Books_5,BrandG,494.67,296.8,9.52,2023-07-18,Active
+PROD_000193,Synergistic secondary open architecture Agree,Sports,Sports_1,BrandE,184.92,110.95,17.33,2023-06-25,Active
+PROD_000194,Switchable system-worthy flexibility Air,Books,Books_4,BrandB,401.68,241.01,17.8,2021-05-03,Active
+PROD_000195,Total well-modulated function Will,Toys,Toys_4,BrandF,487.12,292.27,13.87,2022-02-18,Active
+PROD_000196,Adaptive contextually-based circuit Others,Books,Books_1,BrandB,366.27,219.76,8.67,2023-09-21,Discontinued
+PROD_000197,Cloned client-server support Property,Books,Books_3,BrandF,60.27,36.16,13.25,2025-04-18,Active
+PROD_000198,Cross-group value-added moderator Dinner,Automotive,Automotive_4,BrandG,91.66,54.99,7.1,2022-04-26,Active
+PROD_000199,Persevering global complexity Hope,Beauty,Beauty_1,BrandG,144.53,86.72,1.59,2021-12-29,Active
+PROD_000200,Inverse zero-defect open system Pick,Beauty,Beauty_2,BrandC,476.87,286.12,16.99,2020-11-10,Active
+PROD_000201,Business-focused coherent complexity Somebody,Electronics,Electronics_3,BrandC,42.94,25.77,7.31,2023-07-11,Active
+PROD_000202,Synergistic attitude-oriented flexibility Level,Home & Garden,Home & Garden_3,BrandH,474.92,284.95,8.93,2023-09-30,Active
+PROD_000203,Pre-emptive real-time intranet Join,Home & Garden,Home & Garden_3,BrandF,205.04,123.02,5.07,2021-10-20,Active
+PROD_000204,Versatile multimedia budgetary management Hair,Electronics,Electronics_4,BrandC,254.53,152.72,18.28,2022-08-02,Active
+PROD_000205,Horizontal systematic service-desk Personal,Books,Books_2,BrandE,354.98,212.99,19.93,2022-11-14,Active
+PROD_000206,Synchronized fault-tolerant analyzer Discussion,Automotive,Automotive_1,BrandD,70.09,42.06,9.1,2022-05-31,Active
+PROD_000207,Right-sized analyzing ability Democratic,Clothing,Clothing_1,BrandF,337.24,202.34,11.04,2021-12-10,Active
+PROD_000208,Extended zero administration challenge South,Books,Books_2,BrandC,358.79,215.27,15.89,2021-09-17,Discontinued
+PROD_000209,Inverse bottom-line ability Modern,Clothing,Clothing_2,BrandD,398.11,238.87,15.83,2024-03-03,Active
+PROD_000210,Enhanced clear-thinking implementation No,Beauty,Beauty_5,BrandF,239.03,143.42,2.68,2023-12-15,Active
+PROD_000211,Profit-focused next generation secured line Sure,Clothing,Clothing_4,BrandE,205.1,123.06,10.56,2022-03-17,Active
+PROD_000212,Object-based user-facing analyzer Least,Clothing,Clothing_1,BrandC,486.47,291.88,9.05,2020-07-12,Active
+PROD_000213,Compatible foreground orchestration Laugh,Home & Garden,Home & Garden_2,BrandC,386.21,231.73,8.71,2023-04-21,Active
+PROD_000214,Triple-buffered scalable instruction set Figure,Clothing,Clothing_2,BrandC,159.02,95.41,6.52,2021-01-04,Discontinued
+PROD_000215,Ameliorated fresh-thinking concept Suddenly,Beauty,Beauty_3,BrandE,424.51,254.7,4.01,2025-03-05,Active
+PROD_000216,Persevering system-worthy hierarchy Behavior,Home & Garden,Home & Garden_1,BrandE,311.07,186.64,10.1,2022-08-14,Discontinued
+PROD_000217,Customer-focused dynamic Internet solution Perform,Home & Garden,Home & Garden_5,BrandC,332.78,199.67,6.82,2022-06-09,Active
+PROD_000218,Configurable hybrid function Skill,Electronics,Electronics_5,BrandB,32.28,19.37,5.37,2022-02-18,Discontinued
+PROD_000219,Managed zero-defect concept Ball,Toys,Toys_5,BrandA,254.04,152.42,5.86,2022-12-27,Active
+PROD_000220,Customizable multi-tasking migration Daughter,Automotive,Automotive_4,BrandD,404.3,242.58,6.02,2024-12-19,Active
+PROD_000221,Monitored grid-enabled superstructure Tell,Electronics,Electronics_4,BrandC,225.41,135.24,9.34,2023-08-31,Active
+PROD_000222,Digitized disintermediate benchmark Child,Home & Garden,Home & Garden_3,BrandF,432.13,259.28,14.71,2021-09-18,Active
+PROD_000223,Enhanced real-time collaboration Soon,Toys,Toys_5,BrandC,382.73,229.64,11.28,2024-03-25,Active
+PROD_000224,Compatible context-sensitive throughput Production,Sports,Sports_4,BrandH,70.04,42.02,5.03,2022-11-27,Active
+PROD_000225,Versatile non-volatile task-force Particularly,Electronics,Electronics_5,BrandE,473.24,283.94,8.42,2022-09-06,Discontinued
+PROD_000226,Re-contextualized secondary productivity Probably,Beauty,Beauty_2,BrandF,103.02,61.81,10.02,2022-01-19,Active
+PROD_000227,Self-enabling foreground collaboration Less,Automotive,Automotive_1,BrandE,253.71,152.23,18.91,2020-10-10,Active
+PROD_000228,Organic responsive framework Style,Sports,Sports_1,BrandD,295.84,177.5,1.11,2021-10-22,Active
+PROD_000229,Centralized heuristic middleware Back,Automotive,Automotive_1,BrandE,272.98,163.79,8.68,2021-12-27,Active
+PROD_000230,Organized 5thgeneration approach Home,Beauty,Beauty_4,BrandG,189.31,113.59,1.12,2024-08-05,Discontinued
+PROD_000231,Compatible secondary array Possible,Beauty,Beauty_5,BrandE,46.03,27.62,9.06,2023-05-29,Active
+PROD_000232,Networked maximized paradigm Once,Clothing,Clothing_4,BrandC,487.79,292.67,7.53,2025-03-17,Active
+PROD_000233,User-centric 6thgeneration knowledge user When,Beauty,Beauty_5,BrandC,107.54,64.52,8.09,2024-06-26,Active
+PROD_000234,Streamlined content-based Graphic Interface Point,Electronics,Electronics_3,BrandA,77.15,46.29,16.1,2022-10-24,Active
+PROD_000235,Distributed analyzing knowledge user Board,Home & Garden,Home & Garden_5,BrandC,170.7,102.42,6.44,2024-06-28,Active
+PROD_000236,Mandatory transitional artificial intelligence Mother,Books,Books_5,BrandF,258.58,155.15,10.69,2023-09-01,Active
+PROD_000237,Balanced dynamic strategy Left,Automotive,Automotive_1,BrandA,190.5,114.3,19.6,2025-05-23,Active
+PROD_000238,Progressive multi-state pricing structure Cold,Electronics,Electronics_5,BrandH,140.11,84.07,11.59,2022-04-03,Active
+PROD_000239,Horizontal human-resource installation Stage,Automotive,Automotive_5,BrandC,266.87,160.12,15.51,2022-02-16,Active
+PROD_000240,Right-sized actuating utilization Program,Home & Garden,Home & Garden_1,BrandD,25.47,15.28,3.9,2023-09-03,Active
+PROD_000241,Cloned full-range attitude Open,Beauty,Beauty_2,BrandG,84.2,50.52,8.27,2023-10-30,Active
+PROD_000242,Horizontal eco-centric success Together,Electronics,Electronics_5,BrandC,264.15,158.49,6.57,2023-09-20,Active
+PROD_000243,Robust coherent groupware Beat,Toys,Toys_4,BrandF,478.78,287.27,18.25,2023-05-08,Active
+PROD_000244,Digitized grid-enabled function Reality,Beauty,Beauty_2,BrandE,308.94,185.36,19.15,2023-12-06,Active
+PROD_000245,Object-based clear-thinking policy Section,Books,Books_3,BrandD,471.33,282.8,15.45,2025-02-15,Discontinued
+PROD_000246,Integrated next generation implementation Question,Automotive,Automotive_5,BrandF,245.1,147.06,18.68,2024-05-24,Active
+PROD_000247,De-engineered static standardization Them,Books,Books_5,BrandB,291.0,174.6,7.66,2025-03-04,Active
+PROD_000248,Synergized multi-tasking array Race,Beauty,Beauty_3,BrandC,152.32,91.39,19.11,2023-10-15,Active
+PROD_000249,Profound high-level adapter Him,Beauty,Beauty_4,BrandH,331.43,198.86,4.36,2021-12-24,Active
+PROD_000250,Extended global throughput Mention,Books,Books_5,BrandC,63.52,38.11,4.86,2021-05-24,Active
+PROD_000251,Devolved coherent archive Find,Sports,Sports_4,BrandD,35.72,21.43,6.67,2024-08-28,Active
+PROD_000252,Cross-platform motivating throughput Notice,Clothing,Clothing_5,BrandC,12.54,7.52,19.56,2024-08-11,Discontinued
+PROD_000253,Progressive 5thgeneration protocol Great,Toys,Toys_2,BrandH,243.95,146.37,15.14,2024-10-26,Active
+PROD_000254,Secured clear-thinking policy However,Beauty,Beauty_1,BrandE,326.49,195.89,13.08,2021-03-16,Discontinued
+PROD_000255,Enterprise-wide system-worthy throughput Probably,Electronics,Electronics_2,BrandC,214.76,128.86,18.69,2024-06-25,Active
+PROD_000256,Down-sized uniform intranet Animal,Toys,Toys_3,BrandH,101.29,60.78,17.55,2022-06-28,Active
+PROD_000257,Synergistic uniform encoding Life,Books,Books_3,BrandB,464.94,278.97,5.76,2023-06-28,Active
+PROD_000258,Versatile value-added toolset List,Home & Garden,Home & Garden_1,BrandH,143.69,86.21,6.68,2021-08-09,Active
+PROD_000259,Front-line fault-tolerant workforce Still,Books,Books_3,BrandC,16.9,10.14,15.84,2022-10-12,Discontinued
+PROD_000260,Ergonomic holistic service-desk Your,Home & Garden,Home & Garden_5,BrandG,415.23,249.14,6.63,2023-04-16,Active
+PROD_000261,Organic maximized throughput Father,Clothing,Clothing_4,BrandC,491.03,294.62,6.54,2024-04-29,Discontinued
+PROD_000262,Profit-focused multi-tasking instruction set Color,Electronics,Electronics_4,BrandE,197.95,118.77,15.1,2024-07-09,Active
+PROD_000263,Robust client-driven extranet Area,Books,Books_3,BrandA,138.16,82.9,13.89,2023-08-23,Active
+PROD_000264,Multi-layered neutral benchmark Seek,Clothing,Clothing_4,BrandH,160.34,96.2,13.75,2024-08-31,Active
+PROD_000265,Decentralized executive artificial intelligence Source,Clothing,Clothing_2,BrandE,190.1,114.06,4.46,2021-03-27,Discontinued
+PROD_000266,Organized multimedia circuit Then,Automotive,Automotive_5,BrandC,232.94,139.76,7.54,2022-08-16,Active
+PROD_000267,Face-to-face local hardware Wonder,Sports,Sports_5,BrandD,343.37,206.02,17.48,2020-07-26,Active
+PROD_000268,Business-focused hybrid middleware Hour,Automotive,Automotive_5,BrandF,48.27,28.96,2.33,2021-08-12,Discontinued
+PROD_000269,Configurable holistic definition Ahead,Home & Garden,Home & Garden_5,BrandC,170.78,102.47,8.89,2022-01-11,Discontinued
+PROD_000270,Cross-platform transitional projection Government,Automotive,Automotive_4,BrandB,450.46,270.27,16.19,2024-05-23,Active
+PROD_000271,Devolved 5thgeneration forecast Whose,Home & Garden,Home & Garden_1,BrandG,233.83,140.3,11.22,2024-08-01,Active
+PROD_000272,Total client-driven task-force Season,Electronics,Electronics_1,BrandG,134.68,80.81,14.94,2022-10-13,Active
+PROD_000273,Seamless 24hour artificial intelligence After,Electronics,Electronics_1,BrandG,178.82,107.29,10.87,2021-09-18,Active
+PROD_000274,Distributed neutral superstructure Politics,Clothing,Clothing_4,BrandH,25.55,15.33,3.68,2023-01-28,Discontinued
+PROD_000275,Customizable zero-defect forecast Economy,Toys,Toys_4,BrandF,496.5,297.9,9.03,2021-12-10,Active
+PROD_000276,Business-focused disintermediate instruction set Purpose,Toys,Toys_5,BrandB,344.54,206.72,2.75,2024-05-28,Active
+PROD_000277,Persevering asymmetric budgetary management Think,Clothing,Clothing_4,BrandC,496.49,297.9,10.62,2024-12-17,Discontinued
+PROD_000278,Right-sized national adapter Project,Electronics,Electronics_4,BrandA,489.46,293.68,13.5,2023-01-05,Active
+PROD_000279,Front-line transitional circuit Film,Toys,Toys_3,BrandD,131.28,78.77,3.19,2022-08-01,Discontinued
+PROD_000280,Seamless heuristic encoding Own,Clothing,Clothing_4,BrandA,406.64,243.99,12.34,2022-07-09,Active
+PROD_000281,Synchronized static artificial intelligence Need,Sports,Sports_5,BrandD,42.97,25.78,0.77,2025-04-23,Active
+PROD_000282,Cloned multi-tasking moratorium Movement,Sports,Sports_2,BrandA,207.11,124.27,10.84,2024-05-14,Active
+PROD_000283,Profit-focused neutral adapter In,Home & Garden,Home & Garden_5,BrandE,124.74,74.84,6.45,2024-10-20,Active
+PROD_000284,Balanced scalable info-mediaries Hour,Sports,Sports_5,BrandE,439.37,263.62,4.5,2021-09-14,Active
+PROD_000285,Ameliorated heuristic toolset Author,Books,Books_5,BrandA,282.79,169.68,17.61,2022-02-27,Discontinued
+PROD_000286,Upgradable stable product Body,Toys,Toys_3,BrandH,32.97,19.78,18.84,2024-04-17,Active
+PROD_000287,User-centric web-enabled groupware Cell,Beauty,Beauty_3,BrandG,210.05,126.03,7.59,2020-08-28,Active
+PROD_000288,Quality-focused global project Continue,Sports,Sports_2,BrandD,157.36,94.42,16.13,2024-08-03,Active
+PROD_000289,Synergized maximized standardization Measure,Toys,Toys_2,BrandG,283.07,169.84,7.83,2023-08-06,Active
+PROD_000290,Devolved asymmetric structure Stand,Sports,Sports_4,BrandF,326.89,196.13,16.96,2025-02-25,Active
+PROD_000291,Automated explicit customer loyalty Animal,Sports,Sports_5,BrandA,141.55,84.93,12.1,2024-05-23,Active
+PROD_000292,Balanced foreground function Myself,Sports,Sports_3,BrandD,244.9,146.94,6.13,2022-06-05,Active
+PROD_000293,Quality-focused methodical extranet Although,Sports,Sports_1,BrandD,481.42,288.85,14.96,2024-03-15,Active
+PROD_000294,Ergonomic executive help-desk Training,Sports,Sports_2,BrandD,204.35,122.61,11.09,2024-05-04,Active
+PROD_000295,Streamlined full-range flexibility Capital,Toys,Toys_3,BrandH,271.49,162.89,6.24,2024-06-07,Active
+PROD_000296,Optional impactful synergy Less,Automotive,Automotive_4,BrandH,58.32,34.99,15.26,2024-11-28,Active
+PROD_000297,Networked global contingency Model,Sports,Sports_1,BrandF,163.33,98.0,11.29,2023-11-24,Discontinued
+PROD_000298,Multi-layered multi-state flexibility Suddenly,Home & Garden,Home & Garden_5,BrandA,137.78,82.67,11.62,2020-11-05,Active
+PROD_000299,Optimized attitude-oriented Internet solution Play,Books,Books_2,BrandC,106.13,63.68,7.66,2025-05-31,Discontinued
+PROD_000300,Enterprise-wide needs-based frame Full,Automotive,Automotive_4,BrandF,136.09,81.65,19.33,2020-12-12,Active
+PROD_000301,Inverse stable frame Follow,Automotive,Automotive_3,BrandC,369.06,221.44,3.47,2022-08-31,Active
+PROD_000302,Universal interactive concept Road,Home & Garden,Home & Garden_1,BrandA,266.73,160.04,18.91,2022-08-28,Active
+PROD_000303,Organized 6thgeneration superstructure True,Electronics,Electronics_2,BrandG,77.37,46.42,1.45,2024-12-29,Discontinued
+PROD_000304,Seamless intermediate focus group Purpose,Electronics,Electronics_3,BrandD,257.81,154.69,1.3,2025-05-03,Active
+PROD_000305,Centralized asynchronous secured line Public,Automotive,Automotive_5,BrandA,13.24,7.94,8.29,2022-06-20,Active
+PROD_000306,Profound value-added service-desk Collection,Books,Books_4,BrandE,18.4,11.04,16.14,2025-03-14,Discontinued
+PROD_000307,Digitized real-time service-desk Station,Clothing,Clothing_2,BrandB,266.95,160.17,3.92,2022-08-17,Active
+PROD_000308,De-engineered asymmetric encoding Start,Beauty,Beauty_1,BrandE,399.52,239.71,7.52,2023-08-30,Active
+PROD_000309,Multi-lateral human-resource open system Alone,Automotive,Automotive_2,BrandD,495.21,297.13,6.07,2023-06-18,Active
+PROD_000310,Synergistic local hub Hot,Electronics,Electronics_4,BrandB,208.59,125.15,11.1,2022-08-28,Active
+PROD_000311,Compatible object-oriented challenge Next,Electronics,Electronics_4,BrandC,50.52,30.31,12.93,2022-04-09,Active
+PROD_000312,Intuitive solution-oriented focus group Enjoy,Clothing,Clothing_5,BrandA,122.59,73.55,9.56,2025-03-28,Active
+PROD_000313,Assimilated user-facing contingency Money,Clothing,Clothing_5,BrandE,450.66,270.4,13.2,2023-01-09,Discontinued
+PROD_000314,Realigned bottom-line firmware Stage,Beauty,Beauty_5,BrandA,481.12,288.67,2.97,2021-09-26,Active
+PROD_000315,Organized didactic pricing structure Feeling,Clothing,Clothing_2,BrandE,89.6,53.76,11.38,2023-11-27,Active
+PROD_000316,Pre-emptive dedicated capability Central,Beauty,Beauty_2,BrandG,380.25,228.15,15.83,2024-09-13,Active
+PROD_000317,Organized context-sensitive structure Light,Beauty,Beauty_2,BrandA,57.87,34.72,16.79,2025-06-03,Active
+PROD_000318,Synergized foreground secured line Hand,Toys,Toys_3,BrandF,24.52,14.71,15.69,2023-12-26,Active
+PROD_000319,Reactive needs-based frame Vote,Automotive,Automotive_4,BrandD,184.35,110.61,8.69,2021-12-08,Active
+PROD_000320,Diverse transitional strategy Within,Clothing,Clothing_1,BrandE,401.05,240.63,1.73,2023-12-09,Discontinued
+PROD_000321,Enhanced high-level migration Door,Toys,Toys_3,BrandC,372.43,223.46,7.28,2021-01-15,Active
+PROD_000322,Exclusive client-driven encoding Street,Electronics,Electronics_3,BrandE,227.92,136.75,2.13,2022-11-27,Active
+PROD_000323,Multi-lateral neutral orchestration Home,Home & Garden,Home & Garden_5,BrandG,229.93,137.96,10.3,2022-10-09,Active
+PROD_000324,Reactive clear-thinking pricing structure Usually,Electronics,Electronics_1,BrandB,183.42,110.05,11.98,2020-11-12,Active
+PROD_000325,Integrated hybrid structure Serve,Toys,Toys_4,BrandA,153.01,91.8,15.61,2022-10-30,Discontinued
+PROD_000326,Open-source zero administration installation Than,Home & Garden,Home & Garden_3,BrandG,93.06,55.83,6.09,2023-04-24,Active
+PROD_000327,De-engineered foreground project Back,Home & Garden,Home & Garden_3,BrandB,91.93,55.16,8.48,2022-09-08,Active
+PROD_000328,Synergized multi-state hardware Career,Clothing,Clothing_2,BrandF,133.33,80.0,14.45,2024-10-29,Active
+PROD_000329,Vision-oriented neutral productivity People,Sports,Sports_3,BrandH,62.42,37.45,0.23,2021-05-06,Active
+PROD_000330,De-engineered intermediate middleware Whether,Beauty,Beauty_3,BrandG,404.0,242.4,8.86,2024-10-11,Active
+PROD_000331,Decentralized multi-state collaboration Fly,Home & Garden,Home & Garden_2,BrandE,167.13,100.28,9.63,2021-04-04,Discontinued
+PROD_000332,Inverse tertiary definition Half,Toys,Toys_4,BrandF,152.81,91.69,19.36,2025-03-05,Discontinued
+PROD_000333,Programmable executive artificial intelligence Enough,Beauty,Beauty_4,BrandG,147.35,88.41,7.36,2021-06-01,Discontinued
+PROD_000334,Reactive even-keeled capacity Process,Home & Garden,Home & Garden_4,BrandA,476.97,286.18,18.87,2021-12-13,Discontinued
+PROD_000335,Public-key background middleware Put,Automotive,Automotive_1,BrandE,417.33,250.4,16.4,2021-04-12,Active
+PROD_000336,Reduced coherent concept Reason,Automotive,Automotive_2,BrandC,320.33,192.2,5.13,2023-07-23,Discontinued
+PROD_000337,Robust global open system Analysis,Toys,Toys_5,BrandG,46.24,27.75,9.64,2024-07-24,Active
+PROD_000338,Assimilated attitude-oriented analyzer Put,Toys,Toys_3,BrandA,397.45,238.47,14.06,2024-04-16,Active
+PROD_000339,Fundamental solution-oriented database Speak,Clothing,Clothing_3,BrandD,332.22,199.33,3.41,2023-04-19,Active
+PROD_000340,Secured scalable algorithm Modern,Toys,Toys_4,BrandF,483.2,289.92,2.21,2024-11-18,Active
+PROD_000341,Quality-focused explicit project Five,Books,Books_5,BrandD,260.23,156.14,11.2,2022-11-07,Discontinued
+PROD_000342,Synergized impactful framework Long,Automotive,Automotive_5,BrandF,201.66,120.99,13.84,2020-10-19,Discontinued
+PROD_000343,Centralized cohesive intranet Just,Beauty,Beauty_3,BrandA,246.56,147.93,8.38,2022-11-09,Active
+PROD_000344,Expanded global portal Charge,Clothing,Clothing_3,BrandC,180.68,108.41,9.16,2021-12-31,Discontinued
+PROD_000345,Universal foreground superstructure Traditional,Automotive,Automotive_4,BrandF,243.32,145.99,14.47,2022-02-28,Active
+PROD_000346,Open-architected clear-thinking task-force Hospital,Beauty,Beauty_1,BrandB,157.13,94.28,0.55,2023-01-04,Active
+PROD_000347,Customer-focused foreground encoding Man,Clothing,Clothing_2,BrandC,465.66,279.4,10.37,2021-01-17,Discontinued
+PROD_000348,Organized dynamic circuit Bill,Beauty,Beauty_2,BrandG,479.65,287.79,15.98,2020-09-08,Discontinued
+PROD_000349,Networked reciprocal instruction set Energy,Home & Garden,Home & Garden_5,BrandG,203.84,122.3,17.67,2025-04-01,Active
+PROD_000350,Diverse fresh-thinking orchestration Set,Toys,Toys_2,BrandG,12.18,7.31,4.2,2021-12-31,Active
+PROD_000351,Virtual cohesive methodology Myself,Clothing,Clothing_2,BrandC,189.24,113.54,9.21,2022-10-08,Active
+PROD_000352,Integrated modular adapter Believe,Automotive,Automotive_5,BrandF,302.52,181.51,7.91,2025-02-28,Active
+PROD_000353,Profit-focused logistical encoding Dinner,Beauty,Beauty_5,BrandF,424.3,254.58,3.53,2023-05-09,Active
+PROD_000354,Business-focused actuating forecast Miss,Clothing,Clothing_2,BrandC,163.46,98.08,6.18,2023-06-04,Discontinued
+PROD_000355,Streamlined systematic leverage Feeling,Beauty,Beauty_4,BrandC,260.3,156.18,11.97,2023-02-13,Active
+PROD_000356,Customer-focused intermediate challenge Us,Toys,Toys_5,BrandC,248.47,149.08,13.9,2021-10-04,Discontinued
+PROD_000357,Multi-lateral well-modulated initiative History,Home & Garden,Home & Garden_2,BrandH,151.53,90.92,6.36,2020-08-29,Active
+PROD_000358,Business-focused non-volatile open architecture Day,Electronics,Electronics_4,BrandF,476.4,285.84,2.82,2022-04-01,Active
+PROD_000359,Horizontal asynchronous info-mediaries Mother,Automotive,Automotive_4,BrandG,345.5,207.3,14.23,2022-09-08,Active
+PROD_000360,Reactive even-keeled process improvement Response,Automotive,Automotive_1,BrandC,50.51,30.31,15.94,2023-06-29,Discontinued
+PROD_000361,De-engineered bandwidth-monitored infrastructure Hour,Books,Books_5,BrandA,144.68,86.81,5.84,2024-05-30,Active
+PROD_000362,Mandatory next generation hierarchy Someone,Automotive,Automotive_3,BrandB,290.63,174.38,15.52,2021-02-26,Active
+PROD_000363,Robust multimedia initiative Month,Electronics,Electronics_4,BrandH,277.71,166.63,2.14,2020-08-20,Discontinued
+PROD_000364,Automated client-driven structure Goal,Books,Books_3,BrandA,230.37,138.22,17.26,2024-06-15,Active
+PROD_000365,Programmable logistical collaboration Police,Automotive,Automotive_2,BrandB,390.06,234.04,4.28,2024-11-25,Active
+PROD_000366,Devolved fresh-thinking pricing structure From,Toys,Toys_2,BrandC,311.91,187.15,16.29,2021-03-31,Active
+PROD_000367,Seamless user-facing framework Personal,Beauty,Beauty_2,BrandE,302.46,181.48,6.54,2022-02-12,Active
+PROD_000368,Profound national matrix Section,Books,Books_5,BrandE,476.67,286.0,19.71,2023-04-02,Active
+PROD_000369,Phased 3rdgeneration hub Glass,Home & Garden,Home & Garden_3,BrandG,460.2,276.12,17.35,2023-10-22,Discontinued
+PROD_000370,Operative optimal function Style,Home & Garden,Home & Garden_3,BrandD,81.66,49.0,16.59,2024-12-06,Active
+PROD_000371,Team-oriented responsive algorithm Picture,Automotive,Automotive_3,BrandC,292.94,175.76,12.59,2022-10-23,Active
+PROD_000372,Streamlined zero tolerance time-frame Particular,Automotive,Automotive_1,BrandB,320.48,192.29,8.12,2023-04-29,Active
+PROD_000373,Up-sized actuating paradigm Media,Beauty,Beauty_3,BrandH,475.62,285.37,11.68,2021-04-15,Active
+PROD_000374,Self-enabling uniform process improvement Stage,Automotive,Automotive_5,BrandF,426.55,255.93,8.01,2024-08-22,Active
+PROD_000375,Digitized systemic encryption Almost,Sports,Sports_3,BrandH,141.58,84.95,6.82,2023-04-20,Discontinued
+PROD_000376,Total bifurcated core After,Automotive,Automotive_1,BrandF,448.14,268.88,1.01,2022-08-22,Active
+PROD_000377,Operative coherent installation Rock,Electronics,Electronics_2,BrandB,465.42,279.25,8.88,2021-06-15,Active
+PROD_000378,Profit-focused zero-defect pricing structure Wife,Toys,Toys_2,BrandD,497.89,298.73,17.65,2022-10-17,Active
+PROD_000379,User-centric upward-trending approach Season,Home & Garden,Home & Garden_3,BrandE,55.74,33.44,5.08,2021-02-15,Active
+PROD_000380,Expanded next generation Graphic Interface Recognize,Home & Garden,Home & Garden_3,BrandA,204.21,122.52,14.55,2022-10-29,Discontinued
+PROD_000381,Multi-tiered foreground conglomeration Machine,Toys,Toys_1,BrandB,354.81,212.89,4.35,2024-12-30,Active
+PROD_000382,Mandatory needs-based help-desk Require,Home & Garden,Home & Garden_4,BrandD,264.53,158.72,0.28,2024-04-18,Active
+PROD_000383,Up-sized systemic project Suggest,Clothing,Clothing_4,BrandG,350.08,210.05,1.51,2023-11-26,Active
+PROD_000384,Seamless mission-critical core Employee,Clothing,Clothing_3,BrandB,60.57,36.34,17.63,2021-10-30,Discontinued
+PROD_000385,Innovative directional framework Spend,Toys,Toys_2,BrandC,324.37,194.62,1.46,2021-11-18,Active
+PROD_000386,Expanded system-worthy strategy Middle,Home & Garden,Home & Garden_2,BrandH,182.08,109.25,12.6,2022-01-08,Discontinued
+PROD_000387,Monitored next generation utilization Set,Toys,Toys_1,BrandH,431.38,258.83,17.94,2021-10-20,Discontinued
+PROD_000388,Decentralized object-oriented service-desk Of,Clothing,Clothing_4,BrandG,182.25,109.35,6.36,2022-05-02,Discontinued
+PROD_000389,Object-based grid-enabled throughput Summer,Sports,Sports_2,BrandE,325.86,195.52,11.11,2021-03-02,Active
+PROD_000390,Balanced executive structure Bar,Electronics,Electronics_5,BrandE,110.67,66.4,10.24,2022-03-02,Active
+PROD_000391,Organic solution-oriented extranet Small,Books,Books_2,BrandA,394.06,236.44,9.95,2022-10-31,Active
+PROD_000392,Exclusive national flexibility Worker,Sports,Sports_1,BrandH,322.66,193.6,10.61,2023-03-31,Active
+PROD_000393,Future-proofed client-driven benchmark Power,Beauty,Beauty_5,BrandF,74.67,44.8,8.48,2024-02-21,Discontinued
+PROD_000394,Front-line dynamic application Relationship,Automotive,Automotive_1,BrandB,18.18,10.91,0.37,2024-12-17,Discontinued
+PROD_000395,Face-to-face scalable emulation Area,Electronics,Electronics_4,BrandA,474.85,284.91,10.18,2020-12-08,Active
+PROD_000396,Managed transitional leverage Black,Toys,Toys_5,BrandG,50.39,30.23,10.8,2023-11-04,Discontinued
+PROD_000397,Devolved 24hour neural-net Woman,Books,Books_5,BrandB,161.85,97.11,18.43,2021-03-23,Discontinued
+PROD_000398,Streamlined methodical matrices Rather,Beauty,Beauty_1,BrandG,297.35,178.41,6.27,2021-06-07,Active
+PROD_000399,Horizontal fresh-thinking forecast Race,Sports,Sports_4,BrandA,129.8,77.88,2.41,2020-09-24,Active
+PROD_000400,Visionary background projection Painting,Books,Books_2,BrandC,68.53,41.12,14.06,2021-08-06,Discontinued
+PROD_000401,User-centric uniform alliance White,Automotive,Automotive_3,BrandF,266.27,159.76,3.42,2025-01-16,Discontinued
+PROD_000402,Operative context-sensitive alliance Think,Books,Books_1,BrandB,388.0,232.8,6.77,2022-06-03,Active
+PROD_000403,Proactive contextually-based synergy Turn,Books,Books_5,BrandB,138.85,83.31,12.59,2025-01-24,Active
+PROD_000404,Automated 24/7 framework Out,Automotive,Automotive_5,BrandF,37.17,22.3,3.42,2023-06-14,Discontinued
+PROD_000405,Managed executive knowledgebase Put,Books,Books_1,BrandB,448.19,268.91,4.65,2023-02-25,Active
+PROD_000406,Proactive client-driven middleware Management,Electronics,Electronics_4,BrandA,129.83,77.9,7.34,2021-10-19,Discontinued
+PROD_000407,Customizable full-range complexity Side,Home & Garden,Home & Garden_4,BrandA,280.9,168.54,4.57,2022-09-24,Discontinued
+PROD_000408,Function-based transitional contingency Address,Toys,Toys_1,BrandF,142.92,85.75,11.47,2024-02-13,Active
+PROD_000409,Implemented non-volatile service-desk Sometimes,Electronics,Electronics_5,BrandC,119.36,71.62,19.63,2021-05-26,Active
+PROD_000410,Seamless scalable initiative The,Clothing,Clothing_3,BrandH,434.36,260.61,6.61,2022-07-29,Active
+PROD_000411,Inverse background initiative Relationship,Electronics,Electronics_5,BrandF,108.33,65.0,15.71,2020-11-29,Discontinued
+PROD_000412,Devolved mission-critical Graphic Interface Would,Automotive,Automotive_4,BrandF,299.93,179.96,19.96,2021-09-04,Discontinued
+PROD_000413,Fundamental human-resource encoding Likely,Sports,Sports_4,BrandC,13.13,7.88,0.58,2024-03-16,Active
+PROD_000414,Managed exuding paradigm Several,Electronics,Electronics_4,BrandF,10.72,6.43,17.0,2023-04-20,Active
+PROD_000415,Fundamental solution-oriented hierarchy Room,Clothing,Clothing_2,BrandD,269.61,161.77,8.45,2021-08-13,Active
+PROD_000416,Synchronized bottom-line Local Area Network Food,Home & Garden,Home & Garden_2,BrandE,55.58,33.35,17.96,2021-03-26,Active
+PROD_000417,Synergized motivating strategy Speech,Beauty,Beauty_1,BrandH,487.53,292.52,11.66,2021-12-28,Discontinued
+PROD_000418,Decentralized scalable frame Hold,Toys,Toys_1,BrandB,300.03,180.02,8.76,2023-07-05,Discontinued
+PROD_000419,Face-to-face client-driven matrices Claim,Sports,Sports_3,BrandE,137.89,82.73,18.53,2022-09-17,Active
+PROD_000420,Robust holistic instruction set Science,Beauty,Beauty_2,BrandF,231.85,139.11,1.59,2023-03-08,Discontinued
+PROD_000421,Phased web-enabled monitoring Suffer,Home & Garden,Home & Garden_2,BrandB,86.15,51.69,9.05,2023-10-04,Active
+PROD_000422,Extended well-modulated encryption Response,Toys,Toys_2,BrandB,272.6,163.56,9.09,2024-03-17,Active
+PROD_000423,Configurable multi-tasking knowledge user News,Books,Books_3,BrandB,54.31,32.58,16.55,2023-12-15,Active
+PROD_000424,Compatible non-volatile budgetary management Assume,Sports,Sports_2,BrandF,82.68,49.61,19.37,2024-07-31,Active
+PROD_000425,Profit-focused dedicated orchestration Not,Electronics,Electronics_2,BrandE,137.48,82.49,0.72,2021-03-08,Active
+PROD_000426,Inverse multi-state intranet But,Automotive,Automotive_1,BrandD,56.42,33.85,16.1,2023-11-02,Discontinued
+PROD_000427,Universal optimal matrix Benefit,Clothing,Clothing_2,BrandA,40.22,24.13,2.7,2024-12-06,Active
+PROD_000428,Organized analyzing knowledgebase Cause,Beauty,Beauty_3,BrandB,295.34,177.2,18.36,2023-01-01,Active
+PROD_000429,Persevering non-volatile approach Operation,Electronics,Electronics_4,BrandB,106.9,64.14,16.21,2022-09-30,Active
+PROD_000430,Integrated uniform adapter Individual,Beauty,Beauty_4,BrandB,30.92,18.55,1.11,2021-09-15,Active
+PROD_000431,Adaptive value-added data-warehouse Particular,Toys,Toys_4,BrandH,24.45,14.67,3.54,2020-10-19,Discontinued
+PROD_000432,Optimized grid-enabled standardization Attack,Home & Garden,Home & Garden_2,BrandE,147.13,88.28,0.79,2023-02-21,Discontinued
+PROD_000433,Centralized asymmetric leverage Almost,Books,Books_5,BrandH,211.88,127.13,9.63,2021-11-14,Active
+PROD_000434,Enterprise-wide zero administration challenge Space,Books,Books_2,BrandG,77.25,46.35,12.89,2023-08-24,Discontinued
+PROD_000435,Upgradable secondary instruction set House,Electronics,Electronics_3,BrandG,393.14,235.88,9.65,2025-05-26,Active
+PROD_000436,Multi-tiered local implementation How,Beauty,Beauty_2,BrandF,200.31,120.18,0.62,2020-11-01,Discontinued
+PROD_000437,Switchable needs-based challenge Ready,Electronics,Electronics_4,BrandE,38.71,23.23,10.64,2024-09-26,Discontinued
+PROD_000438,Decentralized context-sensitive monitoring Increase,Home & Garden,Home & Garden_2,BrandB,131.45,78.87,5.4,2023-01-30,Active
+PROD_000439,Upgradable directional ability Something,Sports,Sports_2,BrandG,183.85,110.31,3.6,2020-07-19,Active
+PROD_000440,Innovative maximized service-desk Serve,Beauty,Beauty_3,BrandA,354.69,212.82,18.96,2023-02-27,Discontinued
+PROD_000441,Public-key homogeneous emulation End,Sports,Sports_2,BrandH,275.64,165.38,9.86,2022-09-27,Active
+PROD_000442,Distributed even-keeled core Write,Electronics,Electronics_1,BrandD,304.81,182.89,10.58,2024-10-24,Active
+PROD_000443,Virtual bifurcated alliance Table,Beauty,Beauty_3,BrandD,405.16,243.09,14.37,2023-09-27,Active
+PROD_000444,Seamless zero administration adapter Effect,Electronics,Electronics_2,BrandA,82.38,49.43,15.51,2021-06-19,Active
+PROD_000445,Cross-platform radical alliance Likely,Clothing,Clothing_4,BrandF,355.22,213.13,11.76,2023-06-05,Active
+PROD_000446,Triple-buffered actuating encryption Sit,Books,Books_2,BrandF,76.86,46.12,14.67,2020-08-27,Active
+PROD_000447,Organic discrete moratorium Director,Automotive,Automotive_5,BrandF,95.36,57.22,13.9,2024-03-17,Active
+PROD_000448,Vision-oriented analyzing challenge Most,Sports,Sports_3,BrandC,195.41,117.24,2.63,2025-05-28,Active
+PROD_000449,Focused upward-trending orchestration From,Toys,Toys_3,BrandA,99.22,59.53,18.43,2023-04-29,Discontinued
+PROD_000450,Visionary systematic Graphic Interface Economic,Clothing,Clothing_1,BrandH,78.92,47.35,4.84,2021-12-11,Active
+PROD_000451,Digitized stable model Do,Home & Garden,Home & Garden_3,BrandB,412.61,247.57,8.99,2022-07-03,Active
+PROD_000452,Grass-roots analyzing open architecture Perhaps,Sports,Sports_3,BrandD,349.66,209.79,5.21,2024-11-01,Active
+PROD_000453,Enhanced responsive service-desk Late,Electronics,Electronics_4,BrandA,199.11,119.47,19.39,2023-03-20,Active
+PROD_000454,Business-focused grid-enabled project Remain,Automotive,Automotive_4,BrandG,182.1,109.26,2.12,2022-05-05,Active
+PROD_000455,Progressive foreground standardization Keep,Sports,Sports_1,BrandC,231.13,138.68,5.97,2022-06-23,Active
+PROD_000456,Innovative homogeneous contingency Somebody,Books,Books_2,BrandB,46.36,27.81,17.77,2023-02-15,Discontinued
+PROD_000457,Front-line directional framework Toward,Clothing,Clothing_5,BrandB,175.6,105.36,17.88,2023-12-22,Active
+PROD_000458,Persistent analyzing open architecture Itself,Toys,Toys_4,BrandC,307.59,184.55,3.23,2025-04-11,Active
+PROD_000459,Realigned multi-tasking challenge Important,Beauty,Beauty_4,BrandD,487.46,292.47,13.97,2021-08-25,Active
+PROD_000460,Expanded full-range project Bar,Books,Books_1,BrandE,126.4,75.84,7.92,2025-01-17,Active
+PROD_000461,Multi-layered background monitoring Shake,Home & Garden,Home & Garden_4,BrandA,186.81,112.08,1.84,2024-08-01,Active
+PROD_000462,Business-focused encompassing implementation Report,Sports,Sports_2,BrandB,22.61,13.57,12.8,2023-06-18,Active
+PROD_000463,Balanced asynchronous core Summer,Automotive,Automotive_4,BrandB,161.09,96.66,9.47,2024-03-30,Active
+PROD_000464,Up-sized static open architecture Director,Clothing,Clothing_4,BrandG,100.59,60.36,7.45,2022-10-31,Active
+PROD_000465,Managed exuding access Development,Electronics,Electronics_3,BrandE,225.47,135.28,4.6,2025-02-14,Active
+PROD_000466,User-centric bottom-line synergy Somebody,Electronics,Electronics_1,BrandC,378.6,227.16,1.81,2022-10-30,Active
+PROD_000467,Fully-configurable tangible portal Score,Toys,Toys_4,BrandD,281.26,168.76,16.39,2021-06-16,Active
+PROD_000468,Front-line neutral Graphic Interface Stand,Automotive,Automotive_1,BrandD,243.37,146.02,7.96,2021-11-07,Active
+PROD_000469,Persistent national projection Her,Home & Garden,Home & Garden_4,BrandB,475.13,285.08,3.54,2021-12-23,Discontinued
+PROD_000470,Multi-lateral multimedia methodology Man,Sports,Sports_4,BrandD,71.83,43.1,1.66,2020-12-05,Active
+PROD_000471,Up-sized methodical task-force Those,Sports,Sports_3,BrandC,418.71,251.23,6.46,2022-01-14,Active
+PROD_000472,Expanded holistic functionalities Job,Clothing,Clothing_5,BrandG,282.62,169.57,6.59,2020-08-30,Active
+PROD_000473,Face-to-face user-facing circuit Admit,Automotive,Automotive_5,BrandA,395.41,237.25,11.79,2021-09-27,Active
+PROD_000474,Reduced optimal success Key,Clothing,Clothing_5,BrandG,83.32,49.99,11.8,2021-11-29,Active
+PROD_000475,Exclusive full-range emulation Hundred,Clothing,Clothing_5,BrandB,395.02,237.01,17.61,2023-04-15,Active
+PROD_000476,Fully-configurable modular neural-net Real,Books,Books_5,BrandG,330.85,198.51,12.22,2025-02-25,Active
+PROD_000477,Mandatory eco-centric task-force Term,Home & Garden,Home & Garden_5,BrandE,207.46,124.47,12.21,2022-11-17,Active
+PROD_000478,Up-sized secondary support Military,Electronics,Electronics_3,BrandG,445.89,267.53,13.84,2022-09-27,Active
+PROD_000479,Upgradable heuristic concept Challenge,Automotive,Automotive_1,BrandE,449.55,269.73,6.82,2024-01-15,Active
+PROD_000480,Pre-emptive contextually-based moratorium Quality,Books,Books_1,BrandE,422.99,253.8,19.45,2025-03-22,Discontinued
+PROD_000481,Progressive 5thgeneration archive You,Home & Garden,Home & Garden_4,BrandE,487.37,292.42,15.5,2024-07-11,Active
+PROD_000482,Business-focused well-modulated ability Itself,Books,Books_1,BrandG,306.44,183.86,3.84,2021-02-14,Discontinued
+PROD_000483,Self-enabling discrete architecture Second,Toys,Toys_3,BrandH,382.15,229.29,16.44,2021-03-10,Discontinued
+PROD_000484,Extended motivating knowledgebase Hour,Clothing,Clothing_4,BrandE,357.69,214.61,2.8,2020-09-26,Active
+PROD_000485,Sharable static pricing structure While,Home & Garden,Home & Garden_2,BrandD,438.84,263.3,16.76,2022-11-07,Discontinued
+PROD_000486,Pre-emptive 3rdgeneration ability Night,Electronics,Electronics_3,BrandH,34.77,20.86,14.12,2023-03-12,Active
+PROD_000487,Advanced 3rdgeneration moderator Seven,Beauty,Beauty_1,BrandH,257.51,154.51,13.66,2021-10-22,Discontinued
+PROD_000488,Horizontal 3rdgeneration middleware Tax,Beauty,Beauty_2,BrandH,301.08,180.65,19.21,2023-12-04,Active
+PROD_000489,Optional context-sensitive benchmark Why,Beauty,Beauty_3,BrandF,90.12,54.07,15.0,2020-11-30,Active
+PROD_000490,Distributed disintermediate core President,Books,Books_2,BrandA,199.42,119.65,17.09,2023-01-25,Discontinued
+PROD_000491,Multi-channeled encompassing utilization Industry,Sports,Sports_3,BrandD,342.07,205.24,13.07,2020-10-30,Active
+PROD_000492,Open-architected logistical open system Either,Electronics,Electronics_2,BrandH,456.64,273.99,12.06,2025-05-22,Active
+PROD_000493,Face-to-face exuding software Their,Sports,Sports_3,BrandE,308.09,184.85,14.28,2024-09-04,Active
+PROD_000494,Streamlined solution-oriented task-force Almost,Toys,Toys_4,BrandG,427.28,256.37,5.11,2020-11-25,Active
+PROD_000495,Multi-tiered homogeneous neural-net Maybe,Books,Books_1,BrandG,296.4,177.84,10.28,2020-09-18,Active
+PROD_000496,Advanced tangible concept Beautiful,Books,Books_4,BrandE,345.36,207.22,1.37,2022-12-08,Active
+PROD_000497,Optional secondary toolset Glass,Beauty,Beauty_3,BrandE,137.96,82.78,3.85,2023-04-07,Discontinued
+PROD_000498,Cross-platform multi-tasking analyzer Drug,Electronics,Electronics_2,BrandG,333.66,200.2,14.45,2021-06-29,Active
+PROD_000499,Team-oriented non-volatile leverage Experience,Books,Books_4,BrandE,454.39,272.63,7.83,2020-09-01,Active
+PROD_000500,Compatible systemic focus group Way,Sports,Sports_2,BrandF,366.01,219.61,13.76,2023-02-25,Active
+PROD_000501,Switchable 5thgeneration conglomeration Woman,Beauty,Beauty_5,BrandE,424.26,254.55,3.7,2024-09-08,Active
+PROD_000502,Ameliorated demand-driven parallelism Charge,Automotive,Automotive_5,BrandC,373.05,223.83,15.28,2024-03-13,Discontinued
+PROD_000503,Universal hybrid archive Firm,Beauty,Beauty_2,BrandB,118.9,71.34,14.91,2021-03-31,Active
+PROD_000504,Front-line non-volatile info-mediaries Research,Toys,Toys_5,BrandF,192.12,115.27,5.95,2024-12-01,Active
+PROD_000505,Managed human-resource system engine Sister,Automotive,Automotive_5,BrandA,434.53,260.72,11.65,2021-02-18,Active
+PROD_000506,Team-oriented uniform artificial intelligence Month,Automotive,Automotive_4,BrandD,255.23,153.14,10.64,2024-02-29,Active
+PROD_000507,Monitored actuating attitude Leave,Electronics,Electronics_2,BrandC,77.31,46.39,6.92,2021-08-06,Active
+PROD_000508,Compatible global portal Specific,Home & Garden,Home & Garden_2,BrandF,432.57,259.54,15.6,2023-07-04,Active
+PROD_000509,Right-sized hybrid time-frame General,Beauty,Beauty_1,BrandC,163.57,98.14,0.19,2020-08-01,Active
+PROD_000510,Future-proofed zero tolerance knowledge user Military,Sports,Sports_2,BrandC,292.38,175.43,9.84,2021-07-29,Active
+PROD_000511,Reactive homogeneous Internet solution Cultural,Home & Garden,Home & Garden_4,BrandG,320.41,192.25,8.64,2023-11-01,Active
+PROD_000512,Switchable homogeneous artificial intelligence Sport,Toys,Toys_2,BrandA,28.49,17.09,14.64,2023-07-13,Active
+PROD_000513,Fully-configurable transitional archive Beautiful,Beauty,Beauty_1,BrandD,18.78,11.27,12.57,2021-10-10,Discontinued
+PROD_000514,Multi-tiered transitional toolset Protect,Sports,Sports_1,BrandF,162.93,97.76,7.73,2021-03-16,Active
+PROD_000515,Networked foreground hierarchy Both,Home & Garden,Home & Garden_3,BrandB,413.68,248.21,18.97,2020-11-22,Active
+PROD_000516,Integrated leadingedge hierarchy Sort,Beauty,Beauty_2,BrandG,445.11,267.06,6.92,2021-10-13,Active
+PROD_000517,De-engineered background contingency Lawyer,Beauty,Beauty_4,BrandD,90.79,54.48,0.48,2022-09-06,Discontinued
+PROD_000518,Realigned multimedia installation Board,Home & Garden,Home & Garden_5,BrandD,369.7,221.82,10.14,2020-07-25,Active
+PROD_000519,Multi-channeled neutral array Picture,Beauty,Beauty_3,BrandA,193.84,116.31,15.45,2023-06-05,Active
+PROD_000520,Inverse human-resource access Film,Electronics,Electronics_1,BrandB,330.25,198.15,1.06,2022-07-04,Active
+PROD_000521,Vision-oriented attitude-oriented success Wear,Toys,Toys_5,BrandH,196.32,117.79,5.13,2023-03-27,Discontinued
+PROD_000522,Fully-configurable object-oriented model Condition,Sports,Sports_1,BrandA,157.55,94.53,13.28,2023-11-12,Active
+PROD_000523,Down-sized client-driven flexibility Fish,Home & Garden,Home & Garden_1,BrandG,417.02,250.21,10.28,2021-10-11,Active
+PROD_000524,Digitized asymmetric concept Learn,Books,Books_4,BrandB,394.53,236.72,4.05,2021-10-25,Discontinued
+PROD_000525,Innovative mission-critical toolset Ball,Books,Books_4,BrandD,185.38,111.23,5.98,2022-03-29,Active
+PROD_000526,Fully-configurable uniform product Mission,Automotive,Automotive_4,BrandD,347.22,208.33,6.68,2023-05-28,Active
+PROD_000527,Exclusive logistical benchmark Central,Electronics,Electronics_5,BrandB,454.37,272.62,13.41,2021-12-16,Discontinued
+PROD_000528,Object-based full-range process improvement Husband,Clothing,Clothing_1,BrandB,364.55,218.73,18.11,2024-06-16,Discontinued
+PROD_000529,Managed leadingedge groupware Law,Automotive,Automotive_1,BrandE,139.42,83.65,2.09,2024-07-06,Discontinued
+PROD_000530,Streamlined radical challenge First,Electronics,Electronics_3,BrandE,186.51,111.9,8.58,2022-01-14,Active
+PROD_000531,Team-oriented dedicated matrices Former,Clothing,Clothing_2,BrandA,14.74,8.84,13.3,2021-04-28,Discontinued
+PROD_000532,Object-based foreground frame Simple,Beauty,Beauty_5,BrandF,448.32,268.99,5.44,2023-11-29,Active
+PROD_000533,Pre-emptive object-oriented toolset Eight,Beauty,Beauty_4,BrandF,99.61,59.76,8.06,2022-01-24,Active
+PROD_000534,Grass-roots zero tolerance infrastructure His,Books,Books_4,BrandG,348.05,208.83,16.02,2021-01-02,Discontinued
+PROD_000535,Re-contextualized dedicated parallelism Offer,Clothing,Clothing_1,BrandC,351.12,210.67,19.63,2021-05-02,Discontinued
+PROD_000536,Visionary neutral algorithm Short,Clothing,Clothing_4,BrandG,456.5,273.9,16.07,2022-09-29,Active
+PROD_000537,Triple-buffered demand-driven intranet Subject,Home & Garden,Home & Garden_5,BrandG,391.79,235.07,0.67,2021-11-22,Discontinued
+PROD_000538,Team-oriented asymmetric utilization Stuff,Automotive,Automotive_4,BrandH,65.34,39.2,8.87,2022-06-25,Active
+PROD_000539,Proactive client-driven productivity Floor,Books,Books_5,BrandF,16.06,9.63,15.37,2021-08-24,Discontinued
+PROD_000540,Switchable coherent structure Land,Beauty,Beauty_2,BrandB,222.1,133.26,9.69,2024-05-19,Active
+PROD_000541,Compatible local policy Measure,Home & Garden,Home & Garden_2,BrandA,15.71,9.42,10.16,2023-05-07,Active
+PROD_000542,Public-key motivating solution Kid,Automotive,Automotive_4,BrandC,46.68,28.01,6.48,2023-02-26,Active
+PROD_000543,Multi-lateral tangible workforce Not,Books,Books_5,BrandA,258.4,155.04,12.9,2023-05-28,Active
+PROD_000544,Configurable bi-directional throughput Energy,Sports,Sports_5,BrandB,234.96,140.97,9.02,2023-09-22,Active
+PROD_000545,Multi-channeled composite project Position,Automotive,Automotive_4,BrandF,68.17,40.9,14.93,2020-08-27,Active
+PROD_000546,Stand-alone systematic project Instead,Clothing,Clothing_5,BrandG,212.05,127.23,11.03,2025-04-09,Active
+PROD_000547,Managed intermediate benchmark Action,Books,Books_4,BrandD,330.75,198.45,19.01,2020-12-05,Active
+PROD_000548,Face-to-face multimedia synergy Natural,Electronics,Electronics_3,BrandD,423.72,254.23,11.25,2023-03-24,Active
+PROD_000549,Team-oriented object-oriented definition Like,Beauty,Beauty_2,BrandH,65.87,39.52,0.14,2022-04-22,Active
+PROD_000550,Persistent zero administration service-desk Per,Books,Books_1,BrandF,354.03,212.42,17.95,2023-11-21,Active
+PROD_000551,Distributed grid-enabled algorithm Meeting,Home & Garden,Home & Garden_5,BrandG,62.41,37.45,4.0,2020-12-16,Active
+PROD_000552,Operative attitude-oriented budgetary management Theory,Toys,Toys_2,BrandD,233.95,140.37,14.36,2025-02-20,Active
+PROD_000553,Digitized grid-enabled function Gun,Toys,Toys_5,BrandA,464.05,278.43,2.55,2022-09-17,Active
+PROD_000554,Expanded multi-state matrices Happen,Automotive,Automotive_1,BrandC,482.29,289.37,10.65,2022-10-25,Active
+PROD_000555,Organic uniform standardization Local,Toys,Toys_2,BrandH,462.94,277.77,13.87,2022-01-11,Discontinued
+PROD_000556,Innovative 6thgeneration workforce See,Home & Garden,Home & Garden_5,BrandB,199.83,119.9,12.16,2021-01-04,Active
+PROD_000557,Mandatory secondary benchmark Research,Toys,Toys_2,BrandG,489.96,293.97,5.54,2024-06-08,Active
+PROD_000558,User-centric dynamic model Contain,Books,Books_2,BrandH,404.35,242.61,8.31,2023-03-13,Active
+PROD_000559,Managed next generation interface Maintain,Beauty,Beauty_5,BrandD,108.44,65.06,14.32,2021-08-05,Active
+PROD_000560,Open-architected responsive contingency Cultural,Home & Garden,Home & Garden_3,BrandC,256.91,154.14,14.24,2023-08-22,Active
+PROD_000561,Optional hybrid algorithm Sing,Automotive,Automotive_5,BrandG,340.38,204.23,5.79,2023-07-04,Active
+PROD_000562,Exclusive local parallelism Laugh,Electronics,Electronics_2,BrandB,22.38,13.43,1.16,2022-05-19,Active
+PROD_000563,Triple-buffered didactic database Family,Sports,Sports_2,BrandE,377.59,226.55,19.67,2024-03-13,Active
+PROD_000564,Cloned object-oriented benchmark Successful,Home & Garden,Home & Garden_3,BrandA,348.39,209.03,4.16,2024-10-18,Active
+PROD_000565,Enterprise-wide high-level Graphic Interface Debate,Beauty,Beauty_5,BrandH,60.22,36.13,17.31,2022-09-21,Active
+PROD_000566,Fundamental static matrix News,Sports,Sports_1,BrandE,349.54,209.72,18.54,2025-04-07,Active
+PROD_000567,Intuitive radical info-mediaries Popular,Toys,Toys_1,BrandF,483.26,289.95,0.36,2022-05-26,Active
+PROD_000568,Customizable grid-enabled help-desk Through,Sports,Sports_3,BrandH,416.69,250.02,15.13,2022-09-22,Discontinued
+PROD_000569,Enhanced systematic strategy Such,Sports,Sports_1,BrandE,229.92,137.95,3.82,2021-12-03,Discontinued
+PROD_000570,Seamless optimizing artificial intelligence Remember,Clothing,Clothing_3,BrandG,29.91,17.95,11.18,2021-02-07,Discontinued
+PROD_000571,Decentralized disintermediate function But,Home & Garden,Home & Garden_4,BrandE,12.77,7.66,14.22,2021-05-08,Discontinued
+PROD_000572,Team-oriented client-server migration Important,Electronics,Electronics_5,BrandC,465.03,279.02,1.11,2022-07-12,Active
+PROD_000573,Devolved object-oriented info-mediaries Land,Automotive,Automotive_3,BrandF,45.71,27.43,10.56,2021-05-13,Discontinued
+PROD_000574,Sharable national solution Wide,Clothing,Clothing_5,BrandC,213.81,128.28,8.13,2023-08-30,Active
+PROD_000575,Enhanced next generation concept Might,Sports,Sports_3,BrandD,335.03,201.02,7.28,2021-11-17,Discontinued
+PROD_000576,Enterprise-wide foreground knowledge user President,Automotive,Automotive_3,BrandA,66.21,39.73,8.97,2020-09-13,Discontinued
+PROD_000577,Multi-channeled 24/7 matrix Century,Electronics,Electronics_1,BrandF,196.87,118.12,7.78,2021-05-30,Active
+PROD_000578,Networked next generation middleware Read,Electronics,Electronics_5,BrandF,262.01,157.21,8.97,2022-11-29,Active
+PROD_000579,Synergized mobile instruction set See,Books,Books_1,BrandD,166.95,100.17,18.97,2024-08-20,Discontinued
+PROD_000580,Pre-emptive composite artificial intelligence Other,Electronics,Electronics_2,BrandB,113.28,67.97,17.31,2020-08-03,Active
+PROD_000581,Virtual directional frame Alone,Clothing,Clothing_4,BrandD,273.5,164.1,12.97,2021-10-23,Active
+PROD_000582,Public-key executive concept Statement,Home & Garden,Home & Garden_3,BrandA,235.02,141.01,0.85,2022-09-21,Active
+PROD_000583,User-friendly zero administration throughput Mission,Electronics,Electronics_5,BrandC,399.17,239.5,1.5,2023-03-09,Discontinued
+PROD_000584,Customizable object-oriented budgetary management Executive,Books,Books_4,BrandG,200.14,120.08,8.72,2024-04-24,Active
+PROD_000585,Multi-lateral needs-based system engine Analysis,Toys,Toys_5,BrandB,272.07,163.24,1.36,2024-03-27,Active
+PROD_000586,Organic needs-based data-warehouse Large,Clothing,Clothing_1,BrandF,464.74,278.85,5.87,2020-12-12,Active
+PROD_000587,Streamlined web-enabled encryption Finish,Clothing,Clothing_4,BrandE,384.98,230.99,7.69,2024-10-23,Active
+PROD_000588,Automated local firmware Happen,Automotive,Automotive_2,BrandC,271.4,162.84,14.96,2024-09-30,Active
+PROD_000589,Cross-group leadingedge capability Stand,Home & Garden,Home & Garden_3,BrandE,341.87,205.12,19.15,2024-06-30,Active
+PROD_000590,Expanded user-facing parallelism Risk,Home & Garden,Home & Garden_5,BrandB,30.47,18.28,11.97,2022-03-10,Active
+PROD_000591,Triple-buffered reciprocal product Later,Books,Books_3,BrandD,376.67,226.0,4.31,2021-04-07,Discontinued
+PROD_000592,Devolved zero tolerance database Teach,Home & Garden,Home & Garden_3,BrandC,118.19,70.91,3.97,2021-06-21,Discontinued
+PROD_000593,Centralized non-volatile hardware No,Electronics,Electronics_1,BrandH,325.89,195.53,5.88,2021-11-03,Active
+PROD_000594,Public-key composite Graphic Interface Score,Books,Books_5,BrandB,106.73,64.04,9.8,2021-11-24,Active
+PROD_000595,Re-engineered encompassing migration We,Beauty,Beauty_2,BrandC,338.93,203.36,2.09,2023-11-01,Active
+PROD_000596,Cross-platform client-driven system engine Stock,Sports,Sports_3,BrandF,248.07,148.84,12.37,2022-06-29,Active
+PROD_000597,Centralized even-keeled projection Card,Home & Garden,Home & Garden_4,BrandF,405.77,243.46,3.46,2023-12-11,Active
+PROD_000598,De-engineered dynamic circuit Seek,Sports,Sports_4,BrandD,358.98,215.39,5.61,2022-01-17,Active
+PROD_000599,Fully-configurable well-modulated service-desk Increase,Home & Garden,Home & Garden_4,BrandF,440.16,264.1,8.96,2022-11-19,Active
+PROD_000600,Re-engineered responsive flexibility Product,Automotive,Automotive_5,BrandB,96.13,57.68,1.73,2022-07-04,Active
+PROD_000601,Organized asynchronous productivity Study,Home & Garden,Home & Garden_1,BrandD,138.98,83.39,14.58,2024-11-01,Active
+PROD_000602,Cross-group impactful migration So,Electronics,Electronics_2,BrandG,386.91,232.14,18.14,2021-10-29,Active
+PROD_000603,Multi-layered logistical matrix Generation,Automotive,Automotive_2,BrandC,189.25,113.55,17.84,2023-05-07,Active
+PROD_000604,Vision-oriented upward-trending array Side,Home & Garden,Home & Garden_1,BrandH,255.55,153.33,8.0,2025-04-19,Active
+PROD_000605,Sharable static standardization Help,Sports,Sports_2,BrandC,381.03,228.62,8.98,2024-09-08,Discontinued
+PROD_000606,Public-key hybrid data-warehouse Laugh,Home & Garden,Home & Garden_1,BrandH,470.2,282.12,4.45,2024-07-23,Active
+PROD_000607,Proactive encompassing Graphic Interface Them,Sports,Sports_2,BrandB,139.53,83.72,0.95,2021-11-08,Discontinued
+PROD_000608,Reactive object-oriented capacity Others,Beauty,Beauty_4,BrandG,240.14,144.08,17.64,2024-09-12,Active
+PROD_000609,Mandatory systemic task-force Anything,Beauty,Beauty_5,BrandB,354.83,212.9,12.71,2020-08-30,Active
+PROD_000610,Self-enabling zero tolerance knowledgebase Admit,Books,Books_4,BrandC,194.56,116.74,7.37,2021-01-20,Active
+PROD_000611,Diverse leadingedge knowledgebase A,Books,Books_2,BrandG,486.61,291.97,10.38,2025-05-25,Active
+PROD_000612,Optimized dedicated solution Where,Beauty,Beauty_5,BrandH,398.4,239.04,0.23,2021-02-04,Discontinued
+PROD_000613,Streamlined exuding complexity Two,Automotive,Automotive_5,BrandC,122.7,73.62,12.91,2025-02-06,Discontinued
+PROD_000614,Grass-roots background projection Herself,Home & Garden,Home & Garden_5,BrandC,87.11,52.26,14.37,2021-09-08,Active
+PROD_000615,Multi-layered static projection Company,Sports,Sports_1,BrandG,407.47,244.48,9.68,2020-09-10,Active
+PROD_000616,Self-enabling fault-tolerant success Scene,Automotive,Automotive_4,BrandD,299.49,179.69,0.55,2024-03-18,Active
+PROD_000617,Optimized solution-oriented array Score,Home & Garden,Home & Garden_5,BrandC,76.01,45.61,0.88,2020-11-28,Discontinued
+PROD_000618,Extended mission-critical archive Cause,Electronics,Electronics_2,BrandC,136.55,81.93,10.38,2023-05-28,Active
+PROD_000619,Programmable systemic intranet Act,Electronics,Electronics_2,BrandE,474.15,284.49,9.04,2020-06-22,Active
+PROD_000620,Mandatory bottom-line interface Rule,Automotive,Automotive_4,BrandC,117.49,70.49,12.06,2021-02-04,Discontinued
+PROD_000621,Compatible discrete info-mediaries Behind,Books,Books_3,BrandC,364.85,218.91,18.45,2024-02-03,Active
+PROD_000622,Customer-focused bi-directional functionalities Hold,Sports,Sports_1,BrandG,198.88,119.33,0.43,2024-11-03,Active
+PROD_000623,Devolved homogeneous time-frame Tax,Home & Garden,Home & Garden_5,BrandB,96.94,58.16,12.04,2024-03-15,Active
+PROD_000624,Devolved secondary service-desk Character,Clothing,Clothing_5,BrandH,333.1,199.86,10.83,2020-10-10,Active
+PROD_000625,Re-contextualized 24/7 pricing structure Rate,Toys,Toys_1,BrandG,191.48,114.89,13.98,2021-04-03,Active
+PROD_000626,Monitored uniform data-warehouse Production,Sports,Sports_4,BrandH,396.88,238.13,7.08,2024-03-06,Active
+PROD_000627,Open-source reciprocal software Level,Toys,Toys_2,BrandC,134.71,80.83,18.21,2024-09-26,Active
+PROD_000628,Cross-group bandwidth-monitored challenge Soldier,Books,Books_1,BrandG,136.32,81.79,14.21,2021-01-19,Active
+PROD_000629,Upgradable human-resource hardware Laugh,Clothing,Clothing_2,BrandA,193.76,116.26,13.79,2022-01-03,Active
+PROD_000630,Devolved dynamic focus group Quite,Toys,Toys_4,BrandF,62.23,37.34,13.07,2020-11-08,Active
+PROD_000631,Reactive radical policy Set,Books,Books_5,BrandG,286.69,172.01,5.58,2023-06-23,Active
+PROD_000632,Vision-oriented system-worthy algorithm Thus,Sports,Sports_5,BrandG,280.53,168.32,9.7,2024-09-02,Active
+PROD_000633,Innovative demand-driven model Policy,Automotive,Automotive_5,BrandE,494.37,296.62,6.95,2022-12-25,Active
+PROD_000634,User-friendly hybrid frame Race,Home & Garden,Home & Garden_4,BrandB,376.43,225.86,15.68,2020-09-15,Discontinued
+PROD_000635,Front-line modular info-mediaries Budget,Clothing,Clothing_3,BrandD,259.09,155.45,16.04,2021-08-22,Active
+PROD_000636,Sharable radical archive News,Home & Garden,Home & Garden_1,BrandG,482.64,289.58,16.11,2024-11-17,Discontinued
+PROD_000637,Advanced high-level functionalities Cause,Automotive,Automotive_3,BrandG,53.19,31.91,4.51,2022-05-15,Active
+PROD_000638,Re-contextualized intangible hierarchy Office,Electronics,Electronics_4,BrandG,466.04,279.62,12.32,2023-11-07,Active
+PROD_000639,Virtual methodical throughput Baby,Electronics,Electronics_4,BrandC,323.74,194.25,0.31,2020-07-08,Active
+PROD_000640,Cloned 24/7 firmware Dinner,Sports,Sports_5,BrandA,394.14,236.48,10.36,2020-08-19,Discontinued
+PROD_000641,Centralized hybrid middleware Few,Home & Garden,Home & Garden_1,BrandA,186.27,111.76,19.52,2023-07-31,Active
+PROD_000642,Profit-focused zero administration instruction set Land,Books,Books_4,BrandG,183.03,109.82,8.17,2023-12-12,Discontinued
+PROD_000643,Configurable scalable monitoring Note,Electronics,Electronics_5,BrandB,460.4,276.24,5.76,2023-07-08,Active
+PROD_000644,Grass-roots attitude-oriented function Bar,Beauty,Beauty_2,BrandE,120.88,72.53,9.15,2022-12-29,Active
+PROD_000645,Expanded coherent monitoring General,Electronics,Electronics_5,BrandE,95.77,57.46,2.22,2022-05-22,Active
+PROD_000646,Sharable well-modulated projection Responsibility,Books,Books_5,BrandF,474.04,284.42,19.14,2023-08-27,Active
+PROD_000647,Integrated tangible Internet solution Show,Automotive,Automotive_2,BrandG,285.95,171.57,15.17,2025-03-15,Active
+PROD_000648,Front-line analyzing encryption Before,Automotive,Automotive_3,BrandA,246.17,147.7,1.44,2025-01-22,Discontinued
+PROD_000649,Customizable logistical pricing structure Politics,Sports,Sports_3,BrandF,212.09,127.25,10.38,2020-09-16,Active
+PROD_000650,Synchronized user-facing protocol Sit,Books,Books_4,BrandD,150.77,90.46,13.51,2021-04-24,Active
+PROD_000651,Advanced tertiary challenge Science,Clothing,Clothing_3,BrandC,243.51,146.11,4.45,2020-06-28,Active
+PROD_000652,Proactive grid-enabled model Nation,Home & Garden,Home & Garden_2,BrandD,254.51,152.71,4.77,2024-05-08,Discontinued
+PROD_000653,Up-sized empowering concept Hot,Books,Books_2,BrandD,122.31,73.39,16.74,2021-01-25,Active
+PROD_000654,Vision-oriented encompassing superstructure Various,Home & Garden,Home & Garden_1,BrandB,68.74,41.24,13.55,2021-01-09,Active
+PROD_000655,Assimilated full-range workforce Laugh,Electronics,Electronics_3,BrandA,425.53,255.32,12.45,2021-10-17,Active
+PROD_000656,Cloned empowering structure Part,Books,Books_5,BrandH,99.61,59.76,5.68,2023-07-29,Discontinued
+PROD_000657,Proactive logistical migration Here,Home & Garden,Home & Garden_4,BrandA,267.61,160.57,9.62,2020-09-17,Active
+PROD_000658,Re-contextualized composite hub Coach,Beauty,Beauty_2,BrandG,431.6,258.96,9.2,2021-09-17,Active
+PROD_000659,Customer-focused object-oriented service-desk Several,Automotive,Automotive_1,BrandF,347.71,208.63,13.51,2021-01-04,Active
+PROD_000660,User-centric multimedia ability Another,Clothing,Clothing_3,BrandF,187.19,112.31,3.82,2024-09-23,Active
+PROD_000661,Advanced dynamic analyzer Marriage,Sports,Sports_5,BrandE,240.96,144.58,6.93,2022-04-03,Discontinued
+PROD_000662,Distributed context-sensitive alliance On,Automotive,Automotive_3,BrandG,113.16,67.9,7.37,2024-06-14,Active
+PROD_000663,Universal user-facing projection Kind,Books,Books_2,BrandH,98.15,58.89,19.59,2021-07-23,Discontinued
+PROD_000664,Fully-configurable intangible success Front,Clothing,Clothing_5,BrandE,404.0,242.4,8.7,2021-10-16,Active
+PROD_000665,Compatible object-oriented hub Call,Sports,Sports_2,BrandC,402.02,241.21,9.51,2022-12-12,Active
+PROD_000666,Business-focused context-sensitive definition Summer,Home & Garden,Home & Garden_5,BrandG,254.8,152.88,10.73,2023-01-06,Active
+PROD_000667,Balanced impactful architecture Understand,Automotive,Automotive_5,BrandE,132.98,79.79,1.05,2022-10-05,Active
+PROD_000668,Horizontal zero-defect function Generation,Home & Garden,Home & Garden_3,BrandA,115.58,69.35,9.58,2020-11-12,Active
+PROD_000669,Persevering 24/7 hub Deep,Automotive,Automotive_3,BrandF,137.29,82.37,11.25,2021-11-22,Active
+PROD_000670,Innovative user-facing process improvement Eight,Beauty,Beauty_3,BrandA,211.76,127.06,17.36,2022-10-03,Discontinued
+PROD_000671,Reverse-engineered modular throughput Stand,Home & Garden,Home & Garden_5,BrandE,184.0,110.4,9.8,2021-05-31,Active
+PROD_000672,Quality-focused well-modulated utilization Else,Clothing,Clothing_4,BrandG,310.7,186.42,12.67,2021-03-10,Discontinued
+PROD_000673,Open-source 4thgeneration emulation Number,Home & Garden,Home & Garden_5,BrandF,216.69,130.01,11.48,2022-03-02,Active
+PROD_000674,Team-oriented 24/7 groupware Ability,Clothing,Clothing_3,BrandC,178.38,107.03,6.41,2024-03-25,Active
+PROD_000675,Multi-tiered user-facing superstructure Food,Books,Books_4,BrandG,142.91,85.75,15.64,2020-12-14,Active
+PROD_000676,Progressive disintermediate instruction set Million,Automotive,Automotive_1,BrandG,91.99,55.19,2.59,2025-03-30,Discontinued
+PROD_000677,Digitized transitional focus group Better,Books,Books_4,BrandB,113.18,67.91,2.15,2020-08-27,Active
+PROD_000678,Focused multi-state installation School,Automotive,Automotive_4,BrandA,22.92,13.75,10.53,2024-11-30,Active
+PROD_000679,Persevering value-added artificial intelligence Partner,Clothing,Clothing_1,BrandE,312.87,187.72,13.13,2020-11-29,Active
+PROD_000680,Devolved scalable infrastructure Bad,Books,Books_3,BrandD,131.22,78.73,8.92,2023-05-25,Discontinued
+PROD_000681,Centralized intermediate protocol Case,Home & Garden,Home & Garden_3,BrandC,24.0,14.4,17.22,2021-08-14,Active
+PROD_000682,Fundamental foreground website Increase,Automotive,Automotive_5,BrandH,487.74,292.64,18.7,2023-12-10,Active
+PROD_000683,User-centric fresh-thinking functionalities Local,Home & Garden,Home & Garden_4,BrandC,299.51,179.7,12.66,2021-10-17,Active
+PROD_000684,Compatible dedicated challenge State,Books,Books_2,BrandF,246.01,147.61,16.11,2024-04-15,Active
+PROD_000685,Customer-focused coherent benchmark Community,Books,Books_2,BrandF,211.98,127.19,6.14,2022-09-07,Active
+PROD_000686,Intuitive incremental capability North,Home & Garden,Home & Garden_5,BrandF,150.51,90.31,0.27,2022-03-24,Active
+PROD_000687,Visionary demand-driven knowledge user Foot,Automotive,Automotive_4,BrandE,14.47,8.68,15.98,2022-10-02,Discontinued
+PROD_000688,Decentralized background complexity Surface,Electronics,Electronics_5,BrandF,102.4,61.44,8.8,2023-11-13,Discontinued
+PROD_000689,Triple-buffered tangible portal Amount,Home & Garden,Home & Garden_2,BrandG,415.93,249.56,5.33,2021-07-05,Active
+PROD_000690,Inverse client-server array Seek,Sports,Sports_5,BrandE,149.49,89.69,16.2,2021-09-04,Active
+PROD_000691,Multi-channeled hybrid migration Appear,Sports,Sports_3,BrandB,99.38,59.63,2.3,2023-10-28,Active
+PROD_000692,Fundamental context-sensitive algorithm Interview,Automotive,Automotive_4,BrandE,353.23,211.94,3.84,2024-09-16,Active
+PROD_000693,Realigned value-added neural-net Enjoy,Home & Garden,Home & Garden_1,BrandA,485.16,291.1,3.8,2020-11-28,Active
+PROD_000694,Customer-focused client-driven capability Actually,Books,Books_4,BrandE,71.27,42.76,14.57,2020-09-28,Discontinued
+PROD_000695,Vision-oriented directional capacity Decade,Clothing,Clothing_2,BrandC,17.22,10.33,6.9,2024-07-21,Active
+PROD_000696,Multi-layered systemic product Writer,Automotive,Automotive_1,BrandF,237.21,142.32,6.67,2023-08-29,Discontinued
+PROD_000697,Reduced optimizing firmware Whose,Electronics,Electronics_1,BrandE,390.07,234.04,10.91,2024-07-01,Discontinued
+PROD_000698,Ameliorated asymmetric customer loyalty Weight,Sports,Sports_1,BrandE,410.45,246.27,2.53,2023-09-01,Discontinued
+PROD_000699,De-engineered background workforce Glass,Toys,Toys_1,BrandH,131.11,78.67,4.06,2021-01-17,Active
+PROD_000700,Persistent actuating concept Window,Sports,Sports_3,BrandH,200.67,120.4,18.73,2023-04-22,Discontinued
+PROD_000701,Up-sized hybrid methodology All,Electronics,Electronics_3,BrandB,134.12,80.47,4.05,2022-05-08,Active
+PROD_000702,Optimized context-sensitive help-desk Difficult,Sports,Sports_4,BrandB,125.62,75.37,6.56,2024-12-23,Discontinued
+PROD_000703,Grass-roots even-keeled knowledge user Use,Books,Books_2,BrandB,203.95,122.37,0.28,2021-03-06,Active
+PROD_000704,Seamless regional pricing structure Else,Automotive,Automotive_1,BrandC,191.99,115.19,5.05,2023-09-03,Active
+PROD_000705,Proactive incremental neural-net Measure,Clothing,Clothing_1,BrandF,466.12,279.67,1.29,2020-09-27,Discontinued
+PROD_000706,Grass-roots human-resource challenge Kind,Clothing,Clothing_3,BrandC,249.04,149.43,19.64,2021-06-07,Active
+PROD_000707,Progressive dynamic product Suffer,Automotive,Automotive_4,BrandD,20.46,12.28,7.23,2023-02-26,Discontinued
+PROD_000708,Ameliorated homogeneous toolset Sell,Books,Books_4,BrandA,247.8,148.68,11.22,2022-03-26,Active
+PROD_000709,Quality-focused zero tolerance matrix Guy,Sports,Sports_3,BrandC,276.37,165.82,14.67,2024-12-31,Active
+PROD_000710,Profit-focused fresh-thinking info-mediaries Expect,Home & Garden,Home & Garden_4,BrandB,270.26,162.15,5.98,2021-05-02,Active
+PROD_000711,Intuitive radical definition All,Beauty,Beauty_5,BrandH,10.35,6.21,7.64,2024-11-30,Discontinued
+PROD_000712,Vision-oriented even-keeled approach Table,Electronics,Electronics_2,BrandF,390.25,234.15,6.48,2025-05-24,Active
+PROD_000713,Progressive heuristic throughput Pattern,Toys,Toys_4,BrandD,266.79,160.08,15.34,2025-06-08,Discontinued
+PROD_000714,Diverse bandwidth-monitored encryption Realize,Books,Books_3,BrandF,210.8,126.48,2.3,2021-08-22,Active
+PROD_000715,Public-key user-facing approach South,Electronics,Electronics_1,BrandC,97.53,58.52,4.12,2025-06-02,Active
+PROD_000716,Face-to-face object-oriented website Important,Sports,Sports_4,BrandB,25.59,15.35,13.19,2022-03-18,Active
+PROD_000717,Enhanced context-sensitive encoding Person,Electronics,Electronics_1,BrandF,118.15,70.89,0.36,2022-01-09,Discontinued
+PROD_000718,User-centric tangible help-desk White,Automotive,Automotive_1,BrandB,239.35,143.61,7.28,2023-05-24,Active
+PROD_000719,Triple-buffered tangible help-desk Yourself,Beauty,Beauty_3,BrandA,413.59,248.15,10.63,2023-04-11,Active
+PROD_000720,Digitized non-volatile core Think,Books,Books_5,BrandB,472.86,283.71,2.03,2025-05-18,Discontinued
+PROD_000721,Proactive needs-based function Continue,Toys,Toys_2,BrandD,104.63,62.78,11.44,2022-11-21,Discontinued
+PROD_000722,Cross-group analyzing emulation Play,Toys,Toys_5,BrandB,385.48,231.29,7.22,2021-07-12,Active
+PROD_000723,Progressive mission-critical ability Glass,Toys,Toys_2,BrandB,91.74,55.04,11.04,2025-01-09,Active
+PROD_000724,Exclusive clear-thinking Graphical User Interface Series,Home & Garden,Home & Garden_3,BrandH,467.42,280.45,11.05,2021-04-28,Active
+PROD_000725,Inverse analyzing adapter Choose,Beauty,Beauty_4,BrandG,384.45,230.67,16.54,2023-05-15,Active
+PROD_000726,Digitized zero-defect budgetary management Throughout,Sports,Sports_5,BrandD,193.78,116.27,18.53,2023-01-25,Active
+PROD_000727,Multi-lateral asynchronous hub Sea,Beauty,Beauty_4,BrandH,229.27,137.56,0.1,2025-02-22,Active
+PROD_000728,Object-based optimizing attitude Great,Books,Books_3,BrandA,263.63,158.18,0.23,2021-12-11,Discontinued
+PROD_000729,Devolved cohesive superstructure Leave,Sports,Sports_3,BrandF,20.63,12.38,18.39,2024-05-24,Discontinued
+PROD_000730,Pre-emptive solution-oriented functionalities Contain,Clothing,Clothing_2,BrandA,235.58,141.35,2.85,2023-12-22,Active
+PROD_000731,Realigned system-worthy pricing structure Stop,Sports,Sports_3,BrandD,135.56,81.34,1.93,2022-03-21,Active
+PROD_000732,Synchronized optimizing conglomeration Human,Sports,Sports_4,BrandB,364.55,218.73,3.54,2021-12-20,Active
+PROD_000733,Team-oriented explicit capacity Cost,Books,Books_5,BrandA,368.09,220.85,7.69,2024-01-30,Active
+PROD_000734,Total object-oriented infrastructure Today,Beauty,Beauty_4,BrandF,441.1,264.66,8.39,2025-05-29,Active
+PROD_000735,Re-contextualized 5thgeneration contingency Play,Sports,Sports_4,BrandA,320.6,192.36,1.18,2022-01-10,Active
+PROD_000736,Seamless directional productivity Others,Beauty,Beauty_2,BrandC,170.15,102.09,3.15,2020-12-15,Active
+PROD_000737,Proactive client-server groupware Skill,Automotive,Automotive_3,BrandB,118.82,71.29,15.75,2020-10-28,Discontinued
+PROD_000738,Monitored foreground concept Provide,Home & Garden,Home & Garden_5,BrandF,50.45,30.27,14.93,2024-11-11,Active
+PROD_000739,Cross-group tertiary secured line Purpose,Books,Books_4,BrandB,205.28,123.17,15.5,2024-01-31,Discontinued
+PROD_000740,Managed local access Evidence,Home & Garden,Home & Garden_4,BrandH,284.06,170.43,7.97,2021-06-26,Discontinued
+PROD_000741,Team-oriented asymmetric hardware Establish,Sports,Sports_4,BrandD,45.11,27.06,6.54,2024-05-15,Active
+PROD_000742,Up-sized 24hour application Imagine,Clothing,Clothing_3,BrandG,217.53,130.52,3.89,2022-08-17,Active
+PROD_000743,Operative composite installation Mind,Electronics,Electronics_3,BrandE,92.94,55.76,12.36,2024-11-04,Active
+PROD_000744,Monitored needs-based implementation Blood,Home & Garden,Home & Garden_2,BrandH,31.99,19.19,4.07,2024-07-31,Active
+PROD_000745,Re-engineered solution-oriented task-force Right,Home & Garden,Home & Garden_1,BrandB,65.06,39.04,4.94,2021-07-25,Discontinued
+PROD_000746,Organized asynchronous website Throughout,Books,Books_1,BrandA,178.2,106.92,6.17,2020-08-08,Active
+PROD_000747,Ameliorated foreground firmware Book,Electronics,Electronics_5,BrandF,112.41,67.45,4.32,2020-10-21,Active
+PROD_000748,Down-sized homogeneous complexity Sign,Automotive,Automotive_1,BrandC,350.58,210.35,7.59,2020-10-23,Active
+PROD_000749,Cross-group global policy Positive,Books,Books_2,BrandC,39.45,23.67,15.8,2024-11-25,Active
+PROD_000750,Triple-buffered 4thgeneration Internet solution Yes,Electronics,Electronics_1,BrandH,330.83,198.5,1.43,2023-09-15,Active
+PROD_000751,Robust intermediate complexity Argue,Beauty,Beauty_4,BrandB,19.35,11.61,4.7,2020-12-09,Active
+PROD_000752,Expanded content-based installation Same,Clothing,Clothing_5,BrandF,247.48,148.49,10.68,2023-03-17,Discontinued
+PROD_000753,Upgradable needs-based firmware Recent,Sports,Sports_1,BrandH,284.74,170.84,0.89,2021-11-04,Active
+PROD_000754,Front-line bandwidth-monitored application Increase,Beauty,Beauty_2,BrandH,202.77,121.66,0.47,2023-04-18,Active
+PROD_000755,Pre-emptive coherent application Herself,Beauty,Beauty_5,BrandE,125.74,75.44,5.59,2020-06-14,Active
+PROD_000756,Cross-group explicit protocol Process,Books,Books_1,BrandG,446.3,267.78,18.89,2023-06-09,Active
+PROD_000757,Exclusive bandwidth-monitored algorithm Design,Sports,Sports_4,BrandC,177.48,106.49,13.17,2021-04-16,Active
+PROD_000758,Implemented attitude-oriented leverage Three,Toys,Toys_5,BrandD,214.49,128.7,3.14,2021-01-05,Active
+PROD_000759,Object-based methodical matrix Want,Beauty,Beauty_2,BrandH,275.69,165.42,13.08,2023-09-28,Discontinued
+PROD_000760,Cross-group secondary moratorium Impact,Home & Garden,Home & Garden_5,BrandE,347.38,208.43,18.2,2021-05-11,Active
+PROD_000761,Multi-tiered holistic contingency Like,Home & Garden,Home & Garden_5,BrandC,165.57,99.34,10.71,2020-08-28,Active
+PROD_000762,Organic maximized firmware Draw,Home & Garden,Home & Garden_2,BrandF,421.37,252.82,14.57,2024-08-15,Active
+PROD_000763,Re-contextualized analyzing collaboration Soldier,Toys,Toys_3,BrandG,158.64,95.18,3.12,2023-12-02,Discontinued
+PROD_000764,Cross-platform attitude-oriented secured line Guy,Clothing,Clothing_5,BrandC,100.53,60.32,12.38,2024-06-23,Discontinued
+PROD_000765,Open-source web-enabled parallelism Dream,Sports,Sports_3,BrandD,346.82,208.09,1.68,2023-03-16,Active
+PROD_000766,Networked multi-state instruction set North,Home & Garden,Home & Garden_3,BrandH,358.89,215.33,3.76,2023-11-15,Active
+PROD_000767,Phased object-oriented encoding Maybe,Automotive,Automotive_2,BrandH,77.38,46.43,4.6,2021-12-06,Active
+PROD_000768,Object-based transitional alliance Morning,Electronics,Electronics_2,BrandE,475.6,285.36,14.87,2023-04-17,Discontinued
+PROD_000769,Programmable object-oriented service-desk Pressure,Sports,Sports_4,BrandB,96.77,58.06,17.36,2021-03-04,Active
+PROD_000770,Versatile local conglomeration Computer,Beauty,Beauty_4,BrandH,444.92,266.95,8.16,2025-04-19,Active
+PROD_000771,Ergonomic clear-thinking analyzer Land,Toys,Toys_5,BrandF,203.13,121.88,11.92,2020-10-29,Active
+PROD_000772,Synergized intermediate customer loyalty Test,Clothing,Clothing_1,BrandH,233.88,140.33,17.57,2023-07-28,Discontinued
+PROD_000773,Right-sized empowering functionalities Whether,Toys,Toys_5,BrandA,283.27,169.96,15.33,2024-01-27,Active
+PROD_000774,Cloned background info-mediaries Only,Sports,Sports_3,BrandE,225.38,135.23,15.5,2022-06-03,Active
+PROD_000775,Inverse even-keeled model Low,Automotive,Automotive_5,BrandC,217.01,130.2,18.39,2025-01-08,Discontinued
+PROD_000776,Advanced zero tolerance standardization Price,Automotive,Automotive_5,BrandH,54.32,32.59,2.35,2023-05-17,Discontinued
+PROD_000777,Operative bifurcated instruction set Citizen,Toys,Toys_1,BrandG,168.5,101.1,3.66,2021-03-05,Discontinued
+PROD_000778,Reverse-engineered optimal task-force Yard,Automotive,Automotive_2,BrandB,132.54,79.52,14.4,2020-12-08,Active
+PROD_000779,Customer-focused non-volatile time-frame Blood,Clothing,Clothing_3,BrandB,356.05,213.63,1.8,2024-05-13,Active
+PROD_000780,Public-key grid-enabled installation Everything,Home & Garden,Home & Garden_1,BrandG,279.67,167.8,15.39,2022-05-08,Active
+PROD_000781,Pre-emptive object-oriented portal Material,Home & Garden,Home & Garden_2,BrandC,435.72,261.43,15.41,2020-08-15,Active
+PROD_000782,Grass-roots impactful circuit Present,Toys,Toys_4,BrandE,161.66,97.0,5.85,2023-06-25,Discontinued
+PROD_000783,Team-oriented impactful alliance Individual,Clothing,Clothing_1,BrandC,480.61,288.37,12.49,2024-11-19,Active
+PROD_000784,Managed system-worthy encoding Appear,Electronics,Electronics_4,BrandH,253.84,152.3,10.92,2024-03-01,Active
+PROD_000785,Future-proofed holistic adapter Green,Automotive,Automotive_4,BrandD,116.27,69.76,9.13,2024-07-10,Active
+PROD_000786,Innovative fault-tolerant focus group Threat,Clothing,Clothing_5,BrandA,129.91,77.95,5.63,2022-11-23,Discontinued
+PROD_000787,Total systemic attitude Trouble,Electronics,Electronics_3,BrandC,82.65,49.59,0.83,2021-07-29,Active
+PROD_000788,Innovative value-added intranet Staff,Books,Books_1,BrandF,460.99,276.59,2.27,2024-07-25,Discontinued
+PROD_000789,Future-proofed upward-trending instruction set Point,Home & Garden,Home & Garden_5,BrandE,309.43,185.66,11.49,2023-08-31,Discontinued
+PROD_000790,Ergonomic leadingedge data-warehouse White,Automotive,Automotive_1,BrandF,466.43,279.86,15.39,2024-07-22,Active
+PROD_000791,User-centric mobile task-force Name,Beauty,Beauty_4,BrandG,411.93,247.16,16.88,2024-10-09,Active
+PROD_000792,Centralized multimedia utilization Cold,Books,Books_3,BrandH,75.93,45.56,6.65,2020-10-05,Active
+PROD_000793,Triple-buffered motivating initiative Central,Sports,Sports_1,BrandD,309.91,185.94,11.47,2024-05-04,Active
+PROD_000794,Progressive non-volatile algorithm Consumer,Automotive,Automotive_3,BrandE,219.26,131.55,5.27,2021-05-26,Active
+PROD_000795,Exclusive analyzing encryption Alone,Home & Garden,Home & Garden_4,BrandH,264.66,158.79,9.9,2022-09-19,Discontinued
+PROD_000796,Multi-lateral tertiary customer loyalty Eye,Sports,Sports_1,BrandE,489.84,293.9,2.45,2022-04-11,Active
+PROD_000797,Persistent motivating infrastructure Prove,Clothing,Clothing_4,BrandD,401.79,241.07,8.34,2025-01-19,Active
+PROD_000798,Synergized 4thgeneration encoding Hotel,Beauty,Beauty_2,BrandD,15.54,9.32,13.83,2022-11-18,Active
+PROD_000799,Organized context-sensitive leverage Peace,Clothing,Clothing_5,BrandE,157.14,94.28,6.55,2023-03-12,Active
+PROD_000800,Monitored cohesive firmware Smile,Clothing,Clothing_5,BrandF,177.27,106.36,12.36,2024-08-03,Active
+PROD_000801,Cross-group executive algorithm Imagine,Home & Garden,Home & Garden_3,BrandD,171.95,103.17,18.45,2020-09-06,Active
+PROD_000802,Re-engineered zero-defect data-warehouse Tough,Automotive,Automotive_4,BrandA,326.37,195.82,3.19,2021-07-17,Active
+PROD_000803,Face-to-face systematic database Exist,Beauty,Beauty_4,BrandH,394.15,236.49,18.56,2023-09-11,Active
+PROD_000804,Profound 3rdgeneration time-frame Speak,Books,Books_1,BrandF,282.04,169.22,4.24,2023-11-06,Active
+PROD_000805,Phased clear-thinking project Consumer,Beauty,Beauty_3,BrandB,485.11,291.07,16.83,2023-06-11,Active
+PROD_000806,Advanced directional extranet Political,Toys,Toys_4,BrandC,289.78,173.87,3.83,2024-06-17,Active
+PROD_000807,Integrated transitional strategy Question,Books,Books_3,BrandF,357.82,214.69,8.34,2021-10-24,Active
+PROD_000808,Multi-tiered grid-enabled knowledgebase Entire,Sports,Sports_3,BrandF,231.43,138.86,4.4,2021-07-11,Active
+PROD_000809,Innovative systematic model Thank,Home & Garden,Home & Garden_1,BrandB,193.37,116.02,15.58,2023-07-22,Active
+PROD_000810,Reduced bi-directional ability Much,Automotive,Automotive_5,BrandA,401.52,240.91,3.17,2025-06-07,Active
+PROD_000811,Multi-layered next generation project Phone,Automotive,Automotive_2,BrandE,390.01,234.01,15.41,2023-06-25,Active
+PROD_000812,Innovative systemic benchmark Meet,Home & Garden,Home & Garden_4,BrandD,365.04,219.02,7.81,2020-10-02,Active
+PROD_000813,Grass-roots scalable Graphic Interface Training,Electronics,Electronics_5,BrandE,466.85,280.11,17.45,2021-10-26,Active
+PROD_000814,Streamlined transitional projection Fire,Automotive,Automotive_3,BrandA,60.52,36.31,0.55,2021-05-18,Active
+PROD_000815,Programmable well-modulated encoding We,Sports,Sports_3,BrandF,108.27,64.96,5.61,2020-09-19,Active
+PROD_000816,Right-sized impactful protocol Front,Automotive,Automotive_2,BrandB,143.6,86.16,5.55,2023-11-03,Active
+PROD_000817,Up-sized 4thgeneration projection Modern,Clothing,Clothing_5,BrandD,275.84,165.5,6.44,2025-06-04,Discontinued
+PROD_000818,Fundamental intangible initiative Important,Books,Books_3,BrandD,93.92,56.35,12.3,2024-02-14,Active
+PROD_000819,Reduced tertiary orchestration Team,Automotive,Automotive_4,BrandA,73.74,44.24,18.08,2021-05-20,Active
+PROD_000820,Up-sized transitional definition Rich,Clothing,Clothing_4,BrandG,36.36,21.82,7.9,2023-02-09,Active
+PROD_000821,Phased static help-desk Movement,Beauty,Beauty_2,BrandE,172.84,103.71,14.29,2021-12-08,Active
+PROD_000822,Down-sized stable open architecture Course,Automotive,Automotive_4,BrandC,55.53,33.32,2.04,2021-11-26,Active
+PROD_000823,Phased clear-thinking support Evening,Automotive,Automotive_2,BrandH,123.53,74.12,2.96,2024-01-23,Active
+PROD_000824,Realigned well-modulated contingency Your,Beauty,Beauty_3,BrandG,99.84,59.91,15.8,2023-11-01,Active
+PROD_000825,Managed solution-oriented array Doctor,Automotive,Automotive_4,BrandH,24.83,14.9,2.35,2022-03-19,Active
+PROD_000826,User-friendly fault-tolerant instruction set Story,Automotive,Automotive_3,BrandC,148.31,88.98,12.13,2024-11-14,Discontinued
+PROD_000827,Multi-layered empowering paradigm Financial,Clothing,Clothing_1,BrandG,410.6,246.36,6.58,2022-10-03,Active
+PROD_000828,Decentralized methodical application Trial,Books,Books_4,BrandH,206.4,123.84,4.85,2023-08-11,Discontinued
+PROD_000829,Reduced regional archive Marriage,Home & Garden,Home & Garden_3,BrandH,198.07,118.84,4.24,2024-11-18,Active
+PROD_000830,Profit-focused bottom-line software I,Toys,Toys_2,BrandF,276.82,166.09,3.54,2023-02-01,Active
+PROD_000831,Open-source actuating collaboration Certain,Automotive,Automotive_4,BrandB,300.16,180.1,6.58,2025-05-26,Active
+PROD_000832,Mandatory incremental open system Walk,Automotive,Automotive_4,BrandC,160.94,96.56,1.49,2024-12-20,Active
+PROD_000833,Persevering client-server functionalities Travel,Toys,Toys_1,BrandF,252.2,151.32,1.9,2024-01-06,Discontinued
+PROD_000834,Vision-oriented attitude-oriented matrix Go,Electronics,Electronics_4,BrandC,333.83,200.3,10.67,2023-08-04,Active
+PROD_000835,Enhanced foreground productivity Article,Automotive,Automotive_3,BrandD,110.77,66.46,6.06,2020-06-16,Active
+PROD_000836,Grass-roots demand-driven task-force Staff,Toys,Toys_5,BrandF,495.24,297.15,0.26,2021-04-12,Active
+PROD_000837,Virtual cohesive matrix Stock,Home & Garden,Home & Garden_5,BrandE,40.58,24.35,19.36,2024-04-03,Active
+PROD_000838,Cross-group clear-thinking pricing structure Leader,Beauty,Beauty_1,BrandB,432.01,259.21,4.78,2023-08-09,Active
+PROD_000839,Open-architected interactive matrices Identify,Beauty,Beauty_4,BrandG,208.96,125.37,10.95,2020-06-16,Discontinued
+PROD_000840,Public-key dedicated superstructure Hour,Automotive,Automotive_4,BrandC,102.23,61.34,16.88,2025-03-09,Active
+PROD_000841,Inverse web-enabled moderator Cut,Toys,Toys_2,BrandC,151.35,90.81,2.77,2020-07-10,Active
+PROD_000842,Adaptive responsive superstructure Energy,Electronics,Electronics_4,BrandC,363.46,218.07,13.19,2021-07-26,Discontinued
+PROD_000843,Monitored fault-tolerant capacity Board,Clothing,Clothing_4,BrandC,324.7,194.82,17.22,2022-05-09,Active
+PROD_000844,Reverse-engineered fault-tolerant concept Attention,Home & Garden,Home & Garden_5,BrandH,259.61,155.77,16.42,2024-07-22,Active
+PROD_000845,Innovative explicit knowledgebase Should,Beauty,Beauty_5,BrandD,101.04,60.62,0.25,2023-01-14,Active
+PROD_000846,Progressive global Internet solution View,Sports,Sports_5,BrandE,211.31,126.79,11.57,2023-11-14,Active
+PROD_000847,Devolved global matrix Her,Electronics,Electronics_1,BrandH,355.39,213.24,11.65,2024-03-09,Active
+PROD_000848,Down-sized impactful adapter Drive,Home & Garden,Home & Garden_1,BrandE,237.82,142.69,10.51,2021-07-22,Active
+PROD_000849,De-engineered didactic superstructure Age,Sports,Sports_1,BrandH,319.02,191.41,13.71,2023-05-21,Active
+PROD_000850,Down-sized bottom-line hierarchy Seek,Electronics,Electronics_1,BrandF,272.17,163.3,9.43,2023-09-09,Active
+PROD_000851,Automated homogeneous productivity Especially,Beauty,Beauty_3,BrandG,182.93,109.76,5.86,2024-04-17,Active
+PROD_000852,Secured actuating policy Anything,Books,Books_4,BrandE,40.09,24.06,11.61,2023-09-30,Active
+PROD_000853,Streamlined 3rdgeneration application Road,Books,Books_1,BrandA,150.54,90.32,2.62,2021-01-05,Active
+PROD_000854,Organic homogeneous capability Officer,Books,Books_3,BrandE,74.94,44.97,5.58,2021-09-12,Active
+PROD_000855,Total coherent database Run,Electronics,Electronics_5,BrandB,305.87,183.52,14.81,2023-11-12,Active
+PROD_000856,Advanced exuding instruction set Recently,Beauty,Beauty_2,BrandC,138.01,82.81,9.75,2020-12-09,Active
+PROD_000857,Programmable encompassing process improvement Police,Beauty,Beauty_5,BrandB,484.0,290.4,18.69,2023-12-10,Discontinued
+PROD_000858,Operative bi-directional migration Serve,Automotive,Automotive_2,BrandG,387.48,232.49,13.25,2023-07-11,Discontinued
+PROD_000859,Horizontal bifurcated toolset Born,Sports,Sports_3,BrandF,36.62,21.97,15.13,2022-12-04,Active
+PROD_000860,Robust dedicated time-frame Everyone,Electronics,Electronics_4,BrandC,237.37,142.42,6.1,2024-08-05,Discontinued
+PROD_000861,Exclusive heuristic strategy It,Toys,Toys_2,BrandG,242.55,145.53,10.66,2021-11-29,Active
+PROD_000862,Balanced neutral methodology Whether,Electronics,Electronics_4,BrandE,464.34,278.6,7.7,2021-06-22,Active
+PROD_000863,Polarized full-range encoding Able,Electronics,Electronics_3,BrandB,459.68,275.81,19.13,2020-07-01,Active
+PROD_000864,Cross-group bifurcated orchestration Relationship,Books,Books_1,BrandF,142.46,85.48,5.18,2022-11-27,Active
+PROD_000865,Cross-group zero-defect migration Bad,Automotive,Automotive_5,BrandD,369.81,221.89,15.43,2024-01-20,Active
+PROD_000866,Cross-platform eco-centric project During,Home & Garden,Home & Garden_1,BrandF,278.33,167.0,16.65,2022-09-20,Active
+PROD_000867,Implemented empowering Local Area Network Apply,Toys,Toys_4,BrandB,267.38,160.43,7.1,2020-12-07,Active
+PROD_000868,Enhanced 6thgeneration frame Here,Books,Books_5,BrandD,26.68,16.01,1.93,2024-06-11,Discontinued
+PROD_000869,Intuitive interactive support Business,Clothing,Clothing_5,BrandB,52.33,31.4,2.69,2020-11-28,Discontinued
+PROD_000870,Virtual 6thgeneration access Together,Clothing,Clothing_4,BrandC,134.13,80.48,13.24,2021-02-15,Active
+PROD_000871,Stand-alone composite groupware Help,Automotive,Automotive_3,BrandE,386.99,232.19,5.22,2024-11-28,Active
+PROD_000872,Secured encompassing superstructure Better,Books,Books_3,BrandA,197.57,118.54,19.92,2022-04-19,Active
+PROD_000873,Mandatory contextually-based budgetary management Institution,Books,Books_4,BrandC,225.88,135.53,19.59,2022-06-09,Discontinued
+PROD_000874,Persevering encompassing info-mediaries Road,Toys,Toys_1,BrandC,326.29,195.77,2.96,2024-09-09,Active
+PROD_000875,Operative solution-oriented website Compare,Sports,Sports_3,BrandB,457.18,274.31,2.16,2020-12-31,Active
+PROD_000876,Total uniform approach Yes,Clothing,Clothing_1,BrandE,390.85,234.51,17.94,2024-08-28,Discontinued
+PROD_000877,Customer-focused intangible parallelism Meeting,Electronics,Electronics_3,BrandA,335.66,201.39,3.12,2024-06-12,Active
+PROD_000878,Synergistic leadingedge contingency Popular,Toys,Toys_4,BrandA,262.54,157.52,9.61,2022-05-02,Active
+PROD_000879,Multi-channeled reciprocal algorithm Travel,Clothing,Clothing_4,BrandD,11.62,6.97,2.51,2023-11-10,Active
+PROD_000880,Upgradable clear-thinking matrices Wife,Beauty,Beauty_1,BrandE,206.3,123.78,7.37,2022-11-16,Active
+PROD_000881,Open-source leadingedge analyzer At,Clothing,Clothing_3,BrandH,382.62,229.57,12.99,2021-09-28,Discontinued
+PROD_000882,Intuitive 24/7 strategy Trouble,Electronics,Electronics_3,BrandG,333.76,200.26,13.95,2023-10-29,Active
+PROD_000883,Visionary value-added orchestration Shake,Beauty,Beauty_4,BrandH,51.58,30.95,14.73,2023-04-06,Discontinued
+PROD_000884,Synchronized global model Necessary,Electronics,Electronics_5,BrandD,22.43,13.46,4.85,2023-11-17,Active
+PROD_000885,Secured bandwidth-monitored Internet solution Recently,Clothing,Clothing_4,BrandE,254.85,152.91,19.33,2024-01-26,Active
+PROD_000886,Polarized grid-enabled protocol Require,Electronics,Electronics_1,BrandF,37.47,22.48,8.17,2023-08-23,Discontinued
+PROD_000887,Distributed next generation pricing structure Arm,Automotive,Automotive_2,BrandC,373.12,223.87,18.5,2020-06-29,Active
+PROD_000888,Diverse motivating leverage Together,Home & Garden,Home & Garden_4,BrandH,330.38,198.23,18.15,2022-11-30,Active
+PROD_000889,Down-sized asynchronous system engine Million,Sports,Sports_1,BrandC,17.04,10.22,18.1,2022-01-14,Active
+PROD_000890,Managed even-keeled application Movement,Automotive,Automotive_1,BrandC,419.32,251.59,16.37,2021-07-19,Active
+PROD_000891,Stand-alone homogeneous initiative Technology,Clothing,Clothing_5,BrandH,301.54,180.92,4.49,2021-08-11,Discontinued
+PROD_000892,Persevering leadingedge website Page,Toys,Toys_4,BrandF,407.65,244.59,6.55,2022-09-04,Discontinued
+PROD_000893,Proactive local functionalities By,Beauty,Beauty_5,BrandD,384.47,230.68,3.55,2025-05-04,Active
+PROD_000894,User-friendly solution-oriented adapter Board,Clothing,Clothing_4,BrandE,79.21,47.52,3.44,2022-06-15,Active
+PROD_000895,Automated next generation neural-net A,Home & Garden,Home & Garden_5,BrandH,129.39,77.63,0.91,2024-07-25,Active
+PROD_000896,Robust regional productivity Fly,Toys,Toys_4,BrandC,17.66,10.6,1.71,2024-11-20,Active
+PROD_000897,Realigned demand-driven projection Remain,Home & Garden,Home & Garden_5,BrandB,356.3,213.78,17.75,2022-09-19,Active
+PROD_000898,Mandatory high-level application Technology,Automotive,Automotive_3,BrandC,111.02,66.61,10.51,2021-07-20,Active
+PROD_000899,Persevering full-range open architecture Speak,Sports,Sports_1,BrandC,309.16,185.5,11.97,2023-07-15,Active
+PROD_000900,Phased transitional protocol Himself,Clothing,Clothing_1,BrandE,180.45,108.27,11.2,2024-01-06,Discontinued
+PROD_000901,Customizable bandwidth-monitored task-force Reason,Clothing,Clothing_5,BrandB,313.27,187.96,10.2,2021-07-18,Active
+PROD_000902,Mandatory heuristic productivity Such,Sports,Sports_1,BrandE,36.0,21.6,15.95,2021-11-23,Active
+PROD_000903,Programmable holistic standardization Born,Automotive,Automotive_1,BrandC,88.28,52.97,1.18,2020-08-30,Active
+PROD_000904,Down-sized modular challenge Term,Books,Books_3,BrandD,222.99,133.79,12.37,2024-01-08,Active
+PROD_000905,Up-sized incremental benchmark Environmental,Electronics,Electronics_5,BrandB,372.8,223.68,3.6,2023-06-29,Active
+PROD_000906,Ergonomic bottom-line infrastructure Dinner,Automotive,Automotive_2,BrandB,44.72,26.83,14.46,2022-09-21,Active
+PROD_000907,Ergonomic transitional Graphical User Interface Box,Toys,Toys_3,BrandD,376.07,225.64,4.68,2024-03-22,Active
+PROD_000908,Balanced scalable service-desk Per,Beauty,Beauty_4,BrandD,58.05,34.83,17.41,2021-01-19,Active
+PROD_000909,Organized logistical protocol Perform,Sports,Sports_4,BrandB,240.79,144.47,1.18,2025-03-20,Active
+PROD_000910,Devolved modular ability Nice,Home & Garden,Home & Garden_4,BrandD,464.66,278.8,3.64,2024-02-13,Active
+PROD_000911,Reactive intermediate paradigm Meeting,Home & Garden,Home & Garden_3,BrandH,362.71,217.63,19.51,2025-01-21,Discontinued
+PROD_000912,Vision-oriented context-sensitive solution Particular,Beauty,Beauty_5,BrandC,25.73,15.44,1.29,2021-04-21,Discontinued
+PROD_000913,De-engineered bi-directional info-mediaries Really,Clothing,Clothing_2,BrandH,234.7,140.82,15.23,2023-06-10,Discontinued
+PROD_000914,Inverse motivating info-mediaries Kid,Books,Books_5,BrandC,396.88,238.13,18.12,2025-05-02,Discontinued
+PROD_000915,Team-oriented well-modulated encryption Eye,Clothing,Clothing_4,BrandG,429.92,257.95,17.26,2022-06-04,Discontinued
+PROD_000916,Mandatory explicit knowledge user Support,Automotive,Automotive_4,BrandH,146.79,88.08,14.75,2021-02-06,Discontinued
+PROD_000917,Open-source real-time standardization Various,Sports,Sports_2,BrandF,222.78,133.67,17.85,2024-03-06,Discontinued
+PROD_000918,Innovative tangible neural-net Traditional,Electronics,Electronics_1,BrandG,490.29,294.17,19.83,2022-01-02,Active
+PROD_000919,User-centric neutral product Director,Toys,Toys_1,BrandG,244.84,146.91,9.1,2021-06-10,Discontinued
+PROD_000920,Secured transitional frame Right,Clothing,Clothing_4,BrandA,349.65,209.79,19.0,2022-02-28,Discontinued
+PROD_000921,Synergistic clear-thinking strategy Rate,Beauty,Beauty_1,BrandE,127.14,76.28,0.42,2025-04-24,Active
+PROD_000922,Enhanced motivating moratorium Rule,Home & Garden,Home & Garden_5,BrandH,430.38,258.23,0.59,2023-08-15,Active
+PROD_000923,Triple-buffered bifurcated task-force He,Automotive,Automotive_4,BrandC,438.36,263.01,3.78,2023-04-01,Active
+PROD_000924,Reduced object-oriented secured line See,Automotive,Automotive_1,BrandA,431.59,258.95,7.76,2022-07-10,Active
+PROD_000925,User-friendly national forecast Understand,Electronics,Electronics_3,BrandE,218.69,131.22,13.99,2024-09-03,Discontinued
+PROD_000926,Advanced multi-state benchmark Ago,Clothing,Clothing_1,BrandF,370.52,222.31,10.34,2022-05-04,Active
+PROD_000927,Business-focused static approach Decision,Electronics,Electronics_4,BrandB,197.65,118.59,12.42,2021-10-08,Active
+PROD_000928,Diverse executive software Enough,Beauty,Beauty_1,BrandC,327.6,196.56,11.26,2021-03-02,Discontinued
+PROD_000929,Centralized system-worthy toolset Find,Home & Garden,Home & Garden_1,BrandF,126.93,76.16,13.02,2021-06-15,Discontinued
+PROD_000930,Quality-focused 5thgeneration help-desk Teach,Sports,Sports_3,BrandF,182.83,109.7,10.12,2022-09-12,Active
+PROD_000931,Seamless systematic support Or,Books,Books_3,BrandA,41.05,24.63,9.1,2024-10-05,Active
+PROD_000932,User-friendly secondary open architecture Improve,Automotive,Automotive_3,BrandE,231.47,138.88,16.02,2021-08-16,Active
+PROD_000933,Total executive solution Red,Sports,Sports_4,BrandH,52.78,31.67,17.97,2020-09-01,Active
+PROD_000934,Multi-tiered human-resource instruction set Story,Clothing,Clothing_1,BrandB,90.74,54.44,13.97,2025-04-25,Active
+PROD_000935,Intuitive neutral application Add,Home & Garden,Home & Garden_1,BrandD,265.14,159.08,5.93,2024-02-26,Discontinued
+PROD_000936,Exclusive regional time-frame Traditional,Automotive,Automotive_1,BrandF,215.86,129.52,5.9,2024-10-14,Active
+PROD_000937,Face-to-face scalable strategy Security,Electronics,Electronics_5,BrandD,419.12,251.47,12.93,2023-09-04,Active
+PROD_000938,Versatile optimizing moratorium Single,Beauty,Beauty_5,BrandF,248.21,148.93,16.85,2023-06-15,Active
+PROD_000939,Vision-oriented uniform core Financial,Automotive,Automotive_3,BrandE,287.95,172.77,3.52,2022-09-05,Active
+PROD_000940,Synergized asynchronous contingency Consumer,Sports,Sports_3,BrandH,192.23,115.34,15.42,2024-02-10,Active
+PROD_000941,Decentralized homogeneous analyzer Later,Home & Garden,Home & Garden_2,BrandF,149.35,89.61,12.41,2021-10-30,Discontinued
+PROD_000942,Fundamental clear-thinking complexity Pattern,Books,Books_2,BrandC,486.87,292.12,3.31,2024-08-31,Active
+PROD_000943,Adaptive full-range Local Area Network Security,Electronics,Electronics_4,BrandF,291.52,174.91,5.28,2025-02-14,Discontinued
+PROD_000944,Balanced coherent Graphic Interface Picture,Sports,Sports_3,BrandA,336.12,201.67,3.04,2020-09-08,Active
+PROD_000945,Self-enabling reciprocal protocol Fish,Home & Garden,Home & Garden_1,BrandE,69.53,41.72,8.15,2022-11-21,Active
+PROD_000946,Re-engineered neutral help-desk Baby,Home & Garden,Home & Garden_2,BrandH,464.63,278.78,0.19,2024-05-10,Active
+PROD_000947,Intuitive multi-tasking definition Create,Books,Books_5,BrandH,449.03,269.42,13.37,2023-01-15,Active
+PROD_000948,Profit-focused cohesive instruction set Of,Beauty,Beauty_1,BrandB,368.5,221.1,2.87,2023-02-14,Active
+PROD_000949,Cross-group grid-enabled definition Use,Books,Books_2,BrandA,206.8,124.08,8.97,2021-07-02,Active
+PROD_000950,Managed full-range hierarchy Finally,Beauty,Beauty_2,BrandA,307.99,184.8,11.71,2021-07-12,Discontinued
+PROD_000951,Versatile regional moderator May,Books,Books_5,BrandD,21.05,12.63,17.0,2025-06-02,Active
+PROD_000952,Versatile solution-oriented access Building,Toys,Toys_5,BrandD,250.33,150.2,12.14,2023-10-13,Active
+PROD_000953,Organized disintermediate project Positive,Beauty,Beauty_4,BrandG,82.49,49.5,7.46,2025-01-11,Active
+PROD_000954,Fully-configurable 6thgeneration software Value,Electronics,Electronics_3,BrandE,179.01,107.41,19.55,2022-01-15,Active
+PROD_000955,Customizable human-resource extranet Now,Sports,Sports_4,BrandH,373.35,224.01,16.09,2024-01-21,Active
+PROD_000956,Assimilated multi-state throughput House,Home & Garden,Home & Garden_4,BrandG,367.02,220.21,2.88,2023-01-03,Active
+PROD_000957,Profound local matrix Animal,Home & Garden,Home & Garden_5,BrandD,158.58,95.15,19.73,2021-12-01,Active
+PROD_000958,Streamlined content-based Graphic Interface My,Toys,Toys_3,BrandB,13.24,7.95,8.35,2020-11-05,Active
+PROD_000959,Cross-platform composite throughput Note,Home & Garden,Home & Garden_4,BrandD,101.14,60.69,5.86,2023-02-07,Active
+PROD_000960,Self-enabling asymmetric database Religious,Electronics,Electronics_3,BrandE,418.95,251.37,9.93,2023-08-02,Active
+PROD_000961,Extended systemic interface Thing,Sports,Sports_2,BrandA,397.7,238.62,5.33,2020-12-14,Active
+PROD_000962,Public-key tangible support Stage,Clothing,Clothing_4,BrandE,214.41,128.64,18.15,2022-08-12,Discontinued
+PROD_000963,Compatible value-added software Class,Electronics,Electronics_4,BrandB,384.71,230.83,19.89,2020-07-21,Active
+PROD_000964,Universal full-range alliance Begin,Beauty,Beauty_3,BrandH,287.13,172.28,12.6,2020-10-19,Active
+PROD_000965,Enhanced eco-centric open architecture Avoid,Clothing,Clothing_5,BrandF,261.14,156.68,0.45,2023-04-24,Active
+PROD_000966,Focused empowering installation Important,Home & Garden,Home & Garden_4,BrandA,81.61,48.96,17.58,2022-09-10,Discontinued
+PROD_000967,Open-architected intermediate functionalities Adult,Beauty,Beauty_3,BrandC,35.92,21.55,8.45,2022-05-20,Active
+PROD_000968,Decentralized national ability Put,Electronics,Electronics_1,BrandE,152.92,91.75,10.33,2024-01-14,Discontinued
+PROD_000969,Cloned web-enabled synergy Pay,Clothing,Clothing_3,BrandC,276.42,165.85,16.55,2020-08-30,Active
+PROD_000970,Compatible heuristic middleware Born,Books,Books_5,BrandF,56.96,34.18,7.1,2021-11-19,Discontinued
+PROD_000971,Synergized exuding portal Before,Electronics,Electronics_3,BrandC,263.9,158.34,15.6,2021-11-04,Active
+PROD_000972,Organic homogeneous infrastructure Term,Beauty,Beauty_2,BrandC,60.18,36.11,10.12,2023-09-28,Discontinued
+PROD_000973,Phased cohesive monitoring Discussion,Clothing,Clothing_1,BrandG,235.64,141.38,2.42,2021-02-12,Discontinued
+PROD_000974,Object-based needs-based frame Protect,Electronics,Electronics_3,BrandH,180.62,108.37,2.87,2021-02-26,Active
+PROD_000975,Synergistic upward-trending project Hour,Beauty,Beauty_1,BrandC,357.85,214.71,14.91,2025-03-23,Active
+PROD_000976,Advanced neutral open architecture Chance,Sports,Sports_2,BrandC,429.84,257.9,13.79,2021-01-19,Active
+PROD_000977,Adaptive object-oriented policy Indeed,Home & Garden,Home & Garden_1,BrandD,73.81,44.28,8.55,2023-02-14,Active
+PROD_000978,Configurable fault-tolerant database Smile,Clothing,Clothing_4,BrandA,389.6,233.76,0.95,2024-02-22,Active
+PROD_000979,Up-sized grid-enabled data-warehouse Itself,Electronics,Electronics_3,BrandA,239.85,143.91,0.96,2024-12-18,Active
+PROD_000980,Profound client-server complexity Create,Electronics,Electronics_5,BrandB,393.36,236.02,4.19,2021-07-16,Discontinued
+PROD_000981,Function-based content-based budgetary management Course,Home & Garden,Home & Garden_2,BrandF,24.34,14.6,16.93,2023-10-16,Active
+PROD_000982,Re-contextualized actuating system engine Work,Beauty,Beauty_5,BrandF,88.67,53.2,15.64,2025-05-21,Discontinued
+PROD_000983,Reactive maximized project Often,Clothing,Clothing_1,BrandB,411.6,246.96,10.62,2020-10-19,Discontinued
+PROD_000984,Synchronized asymmetric extranet Billion,Books,Books_5,BrandC,451.81,271.09,0.19,2021-06-03,Active
+PROD_000985,Reduced mobile groupware Heavy,Sports,Sports_5,BrandH,189.57,113.74,3.78,2021-01-28,Active
+PROD_000986,Streamlined disintermediate attitude Feel,Home & Garden,Home & Garden_4,BrandF,490.84,294.5,4.36,2023-07-14,Discontinued
+PROD_000987,Ergonomic foreground matrix Little,Toys,Toys_3,BrandB,383.09,229.85,2.56,2022-01-28,Active
+PROD_000988,Switchable fault-tolerant solution Pattern,Home & Garden,Home & Garden_3,BrandH,383.51,230.11,11.19,2021-03-13,Active
+PROD_000989,Re-contextualized high-level workforce Four,Clothing,Clothing_4,BrandF,251.92,151.15,5.74,2025-03-25,Active
+PROD_000990,Down-sized 24hour functionalities Employee,Automotive,Automotive_3,BrandD,281.42,168.85,19.7,2024-05-13,Active
+PROD_000991,Universal user-facing project Least,Sports,Sports_4,BrandB,448.43,269.06,18.79,2021-10-26,Active
+PROD_000992,Multi-lateral client-driven service-desk Significant,Home & Garden,Home & Garden_4,BrandA,499.37,299.62,13.47,2022-02-03,Active
+PROD_000993,Polarized maximized knowledge user Her,Automotive,Automotive_4,BrandB,68.42,41.05,8.07,2024-04-23,Active
+PROD_000994,Pre-emptive neutral benchmark Continue,Home & Garden,Home & Garden_2,BrandB,188.22,112.93,6.84,2023-08-31,Active
+PROD_000995,Configurable even-keeled challenge Vote,Clothing,Clothing_4,BrandD,420.67,252.4,5.64,2023-02-17,Active
+PROD_000996,Fundamental upward-trending product Ball,Toys,Toys_5,BrandF,243.15,145.89,19.01,2024-01-28,Active
+PROD_000997,Ameliorated motivating product Allow,Books,Books_1,BrandC,386.32,231.79,2.53,2024-07-01,Active
+PROD_000998,Reduced impactful throughput Performance,Automotive,Automotive_2,BrandD,317.9,190.74,0.69,2021-07-01,Active
+PROD_000999,Automated neutral firmware Of,Clothing,Clothing_2,BrandH,342.27,205.36,7.71,2024-11-27,Active
+PROD_001000,Quality-focused methodical projection Stage,Home & Garden,Home & Garden_1,BrandE,314.76,188.86,15.23,2021-03-06,Active

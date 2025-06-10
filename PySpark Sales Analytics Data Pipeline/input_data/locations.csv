@@ -1,0 +1,101 @@
+location_id,city,state,region,country,zip_code,store_type,store_size_sqft,opening_date
+LOC_0001,North Judithbury,NY,North,USA,29757,Standalone,17049,2016-09-09
+LOC_0002,Lake Joyside,FL,South,USA,11896,Mall,45348,2020-09-30
+LOC_0003,North Claytonbury,NC,North,USA,66738,Outlet,3082,2020-11-07
+LOC_0004,Lake Debra,CA,North,USA,71927,Strip,16247,2019-03-18
+LOC_0005,Lawrencetown,NC,Central,USA,21427,Mall,37781,2021-09-19
+LOC_0006,Joshuaborough,FL,Central,USA,44619,Outlet,15446,2016-05-09
+LOC_0007,Davisstad,GA,Central,USA,79632,Standalone,1425,2017-10-25
+LOC_0008,Lake Stephenville,TX,West,USA,50116,Standalone,19210,2016-02-23
+LOC_0009,Mariastad,TX,South,USA,76175,Standalone,7698,2017-03-02
+LOC_0010,North Donnaport,NY,West,USA,10959,Mall,24526,2023-02-18
+LOC_0011,South Joshuastad,PA,Central,USA,21820,Standalone,3847,2018-10-07
+LOC_0012,Lake Joseph,GA,Central,USA,90094,Mall,25807,2021-04-08
+LOC_0013,New Jessica,NY,Central,USA,21918,Standalone,42198,2019-08-06
+LOC_0014,Veronicaside,MI,East,USA,29286,Strip,47174,2021-08-06
+LOC_0015,East Lydiamouth,NY,North,USA,53082,Strip,19965,2017-11-05
+LOC_0016,New Nancy,NY,South,USA,41746,Mall,25911,2017-05-07
+LOC_0017,Fostermouth,IL,West,USA,19227,Standalone,11659,2017-10-26
+LOC_0018,Lake Anna,PA,East,USA,34939,Strip,44920,2022-02-27
+LOC_0019,Hurstfurt,IL,North,USA,47948,Strip,36005,2017-05-29
+LOC_0020,New Trevor,FL,South,USA,99562,Outlet,25867,2015-11-10
+LOC_0021,East Courtneychester,IL,Central,USA,78673,Strip,45866,2016-01-03
+LOC_0022,Carlsonmouth,PA,North,USA,69853,Strip,3103,2017-09-12
+LOC_0023,Lake Jenniferside,PA,West,USA,98920,Standalone,5337,2017-11-02
+LOC_0024,Danielchester,FL,Central,USA,21231,Standalone,14934,2019-07-09
+LOC_0025,Teresaburgh,GA,West,USA,67043,Outlet,10363,2023-08-25
+LOC_0026,Meaganhaven,IL,South,USA,80319,Strip,49823,2017-03-23
+LOC_0027,Kathrynside,NC,Central,USA,70015,Standalone,49956,2023-09-14
+LOC_0028,Tracyville,MI,West,USA,48077,Outlet,24723,2023-05-06
+LOC_0029,Johnbury,FL,South,USA,74865,Outlet,6957,2023-12-16
+LOC_0030,Lake Toddland,CA,North,USA,70323,Strip,42120,2022-04-30
+LOC_0031,Lake Thomas,TX,West,USA,72564,Mall,26216,2016-12-02
+LOC_0032,Brandtside,OH,Central,USA,99495,Outlet,35676,2022-01-02
+LOC_0033,Lake Larry,IL,Central,USA,88540,Mall,45583,2021-04-14
+LOC_0034,Lammouth,NY,Central,USA,16361,Standalone,43006,2017-08-31
+LOC_0035,West Andrewside,PA,North,USA,30662,Standalone,29492,2020-09-24
+LOC_0036,North Jeanton,TX,West,USA,30508,Mall,48323,2016-01-16
+LOC_0037,Port Markhaven,IL,Central,USA,31696,Strip,34271,2017-12-10
+LOC_0038,Lewisberg,NY,East,USA,95312,Strip,11016,2023-11-09
+LOC_0039,Sanchezfort,PA,South,USA,53855,Mall,40252,2017-02-23
+LOC_0040,Lake Ryanchester,PA,West,USA,54384,Mall,8331,2019-08-22
+LOC_0041,Lake Deniseville,PA,East,USA,08445,Strip,4796,2019-01-22
+LOC_0042,Laurenville,FL,Central,USA,33092,Mall,6613,2017-02-27
+LOC_0043,Taylorburgh,GA,North,USA,37010,Strip,9414,2019-08-07
+LOC_0044,South Lindseyside,GA,Central,USA,13334,Strip,18370,2015-11-22
+LOC_0045,North Sarabury,NC,Central,USA,22299,Outlet,14880,2019-02-03
+LOC_0046,Lewisfurt,NC,South,USA,08186,Standalone,27148,2016-12-01
+LOC_0047,South Josephmouth,PA,West,USA,37889,Outlet,8930,2019-03-30
+LOC_0048,Mooreport,FL,South,USA,29035,Mall,23156,2024-02-26
+LOC_0049,Lake Leeton,CA,Central,USA,77070,Strip,39564,2019-09-23
+LOC_0050,North Susan,FL,North,USA,11001,Mall,47389,2023-02-05
+LOC_0051,New Carlosbury,CA,South,USA,53424,Mall,3058,2016-07-07
+LOC_0052,New Brooke,PA,North,USA,81684,Strip,19250,2016-03-04
+LOC_0053,Sarahborough,GA,South,USA,88283,Strip,48405,2021-11-18
+LOC_0054,West Randy,MI,Central,USA,88540,Outlet,16925,2021-03-30
+LOC_0055,Stewartland,GA,West,USA,01721,Strip,7181,2019-07-24
+LOC_0056,North Amandahaven,NY,West,USA,35261,Standalone,28759,2016-08-17
+LOC_0057,Nicolebury,OH,West,USA,48935,Mall,45129,2017-12-31
+LOC_0058,Bassport,NY,North,USA,80674,Outlet,48724,2024-04-15
+LOC_0059,Lake Lisaport,PA,North,USA,87452,Strip,13556,2016-05-14
+LOC_0060,West Darrell,FL,Central,USA,14530,Outlet,10186,2022-02-12
+LOC_0061,West Juan,OH,South,USA,28108,Standalone,31318,2021-11-22
+LOC_0062,Lake Cynthia,FL,North,USA,35101,Outlet,37066,2019-12-26
+LOC_0063,Rebeccaton,NY,North,USA,12598,Mall,7112,2021-02-21
+LOC_0064,Bradleymouth,FL,South,USA,17647,Outlet,32826,2021-03-03
+LOC_0065,Evanmouth,GA,South,USA,72810,Outlet,4842,2021-10-14
+LOC_0066,North Charlesberg,TX,West,USA,72012,Mall,26586,2015-10-05
+LOC_0067,Brandiberg,IL,West,USA,56834,Standalone,28722,2016-07-31
+LOC_0068,Michaelton,NC,West,USA,47399,Strip,13445,2017-04-29
+LOC_0069,Lake Curtis,IL,South,USA,73886,Mall,38957,2023-05-24
+LOC_0070,Dicksonberg,NC,North,USA,31530,Standalone,4746,2023-03-20
+LOC_0071,South Angel,CA,Central,USA,97043,Outlet,33954,2023-10-03
+LOC_0072,Phambury,NC,South,USA,35471,Mall,34281,2016-11-13
+LOC_0073,South Monicafort,NY,South,USA,29655,Mall,39996,2017-03-25
+LOC_0074,Baileybury,NY,South,USA,29720,Outlet,8856,2015-08-25
+LOC_0075,South Mark,MI,South,USA,09600,Mall,41591,2024-02-20
+LOC_0076,Michaelhaven,NY,West,USA,52887,Standalone,18089,2021-07-20
+LOC_0077,Sheilaville,FL,East,USA,34738,Strip,18407,2017-01-15
+LOC_0078,Benjaminchester,OH,South,USA,45810,Standalone,30964,2021-12-28
+LOC_0079,Samuelhaven,PA,North,USA,15658,Mall,31034,2018-11-26
+LOC_0080,West Bradley,MI,Central,USA,57655,Mall,5801,2015-06-14
+LOC_0081,West Ryan,NC,South,USA,87563,Standalone,9680,2023-09-21
+LOC_0082,Elizabethville,PA,North,USA,94840,Strip,25217,2023-07-15
+LOC_0083,Elizabethmouth,IL,South,USA,53244,Outlet,36600,2021-09-16
+LOC_0084,East Robert,IL,Central,USA,50196,Mall,44769,2021-07-13
+LOC_0085,New Ashley,NC,East,USA,53726,Mall,9800,2020-05-14
+LOC_0086,West Justinchester,IL,North,USA,76520,Mall,49655,2020-11-23
+LOC_0087,Stevenmouth,NC,South,USA,89056,Standalone,19465,2017-05-11
+LOC_0088,Leonburgh,MI,South,USA,86857,Standalone,14342,2016-03-13
+LOC_0089,Clarencebury,IL,Central,USA,88685,Outlet,17457,2018-03-25
+LOC_0090,East Andrew,CA,North,USA,32593,Outlet,19132,2024-04-16
+LOC_0091,South Robertshire,CA,North,USA,25986,Standalone,9573,2021-11-25
+LOC_0092,Snyderbury,IL,South,USA,19843,Outlet,37154,2021-05-04
+LOC_0093,Port Michelleville,OH,Central,USA,56225,Mall,8331,2017-05-28
+LOC_0094,Williamsbury,NY,South,USA,16407,Mall,25196,2019-07-18
+LOC_0095,Contrerasside,MI,Central,USA,78548,Strip,29166,2018-04-16
+LOC_0096,Salazarhaven,TX,North,USA,56434,Standalone,24897,2022-11-29
+LOC_0097,Merrittfort,CA,East,USA,59492,Strip,45699,2017-10-07
+LOC_0098,Port Dana,FL,North,USA,68828,Standalone,37692,2019-10-18
+LOC_0099,West Scott,OH,Central,USA,94026,Strip,16514,2018-01-03
+LOC_0100,Matthewside,TX,South,USA,11062,Outlet,2624,2016-09-05
