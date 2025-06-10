@@ -423,7 +423,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-org/sales-analytics-pipeline.git
+git clone https://github.com/tariqulismail/Data-Engineering/PySpark Sales Analytics Data Pipeline.git
 
 # Install dependencies
 pip install -r requirements.txt
