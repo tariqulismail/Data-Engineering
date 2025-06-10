@@ -438,8 +438,8 @@ python main.py
 ## 📞 Support & Contact
 
 For questions, issues, or contributions:
-- **GitHub Issues**: [Project Issues Page](https://github.com/tariqulismail/Data-Engineering/PySpark Sales Analytics Data Pipeline/issues)
-- **Documentation**: [Wiki Pages](https://github.com/ariqulismail/Data-Engineering/PySpark Sales Analytics Data Pipeline/wiki)
+- **GitHub Issues**: [Project Issues Page](https://github.com/tariqulismail/Data-Engineering/PySpark_Sales_Analytics_Data_Pipeline/issues)
+- **Documentation**: [Wiki Pages](https://github.com/ariqulismail/Data-Engineering/PySpark_Sales_Analytics_Data_Pipeline/wiki)
 - **Email**: connect@tariqulismail.com
 
 ## 📄 License
